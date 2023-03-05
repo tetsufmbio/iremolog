@@ -8,9 +8,10 @@ open(FILE, "< $file") or die;
 my $proteinA; my $proteinB;
 
 my ($finalScore, $coverage, $rmsd, $gaps, $finalScoreNorm) = ("") x 5;
+my ($lenA, $lenB) = ("") x 2;
 
 while(my $line = <FILE>){
-
+	
 	if($line =~ m/^  FINAL SCORE/){
 		chomp $line;
 		my @line = split(/[ ]+/, $line);
@@ -34,7 +35,19 @@ while(my $line = <FILE>){
 		my @line = split(/[ ]+/, $line);
 		$proteinB = $line[3];
 		$proteinB =~ s/\.ent\.pdb$//;
+	} elsif ($line =~ m/^  Number of atoms:/){
+		chomp $line;
+		my @line = split(/[ ]+/, $line);
+		$lenA = $line[5];
+		$lenB = $line[7];
 	}
 }
 
-print $proteinA."\t".$proteinB."\t".$finalScore."\t".$coverage."\t".$rmsd."\t".$gaps."\t".$finalScoreNorm."\n";
+if ($finalScore eq ""){
+	exit;
+}
+my $relCov;
+$relCov = sprintf("%.4f", $coverage/$lenB) if ($lenB > 0);
+my $relGaps;
+$relGaps = sprintf("%.4f", $gaps/$coverage) if ($coverage > 0);
+print $proteinA."\t".$proteinB."\t".$finalScore."\t".$coverage."\t".$rmsd."\t".$gaps."\t".$relCov."\t".$relGaps."\t".$finalScoreNorm."\n";

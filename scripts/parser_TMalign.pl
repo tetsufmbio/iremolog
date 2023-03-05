@@ -34,6 +34,10 @@ while(my $line = <FILE>){
 		$features[1] = $line[4];
 		$features[2] = $line[6];
 		#print $finalScore."\n";		
+	} elsif ($line =~ m/^Length of Chain_2:/){
+		my @line = split(/[ ]+/, $line);
+		$features[5] = $line[3];
+		#print $finalScore."\n";		
 	} elsif ($line =~ m/^TM-score=/ and $line =~ m/Chain_2/){
 		my @line = split(/[ ]+/, $line);
 		$features[3] = $line[1];
@@ -44,5 +48,6 @@ while(my $line = <FILE>){
 	}
 }
 
+$features[5] = sprintf("%.4f",$features[0]/$features[5]);
 print $proteinA."\t".$proteinB."\t".join("\t", @features)."\n";
 #print $proteinA."\t".$proteinB."\t".$finalScore."\t".$coverage."\t".$rmsd."\t".$gaps."\t".$finalScoreNorm."\n";
