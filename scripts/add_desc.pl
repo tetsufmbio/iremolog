@@ -34,6 +34,8 @@ while(my $line = <CLA>){
 	}
 	
 }
+$dm{"subject"} = "subject";
+
 close CLA;
 
 open(DES, "< $desFile") or die;
@@ -60,12 +62,15 @@ while(my $line = <DES>){
 	}
 	#$des{$line[1]."=".$line[0]} = $line[2]." ".$line[4];
 }
+$cla{"subject"} = "superfamily";
+
 close DES;
 
 open(RES, "< $resultFile") or die;
 
 while(my $line = <RES>){
 	chomp $line;
+	next if($line =~ /^$/);
 	my @line = split(",", $line);
 	print $line[0]."\t".$line[1]."\t".$cla{$dm{$line[1]}}."\t".$line[34]."\t".$line[35]."\n";
 }
