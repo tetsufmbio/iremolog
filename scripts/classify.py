@@ -17,7 +17,6 @@ import pandas as pd
 import numpy as np
 								 
 clf = load(config["model"])
-query,subject,sf,lovo_finalScore,lovo_coverage,lovo_rmsd,lovo_gaps,lovo_finalScoreNorm,lovo_relCov,lovo_relGaps,tm_AliLen,tm_RMSD,tm_n_ident/n_aln,tm_TM-score (chain 2),tm_d0 (chain 2),tm_cov,fatcat_subject-len,fatcat_Twists,fatcat_ini-len,fatcat_ini-rmsd,fatcat_opt-equ,fatcat_opt-rmsd,fatcat_chain-rmsd,fatcat_Score,fatcat_align-len,fatcat_Gaps,fatcat_rel_score,fatcat_rel_align,cl=46456,cl=48724,cl=51349,cl=53931,cl=56572,cl=56835,cl=56992,label
 
 header = ["query", "subject",
           "lovo_finalScore", "lovo_coverage", "lovo_rmsd", "lovo_gaps", "lovo_relCov", "lovo_relGaps", "lovo_finalScoreNorm",
