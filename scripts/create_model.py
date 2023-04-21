@@ -11,18 +11,28 @@ config = vars(args)
 
 import numpy as np
 import pandas as pd
-from sklearn.preprocessing import StandardScaler
-from sklearn.svm import SVC
+from sklearn.preprocessing import RobustScaler
+import xgboost as xgb
 from sklearn.pipeline import Pipeline
 from joblib import dump, load
 
 #url = "https://raw.githubusercontent.com/tetsufmbio/remolog/main/data/"
 #dataset = "data.csv"
 
-data = pd.read_csv(config["input"], header=None)
+data = pd.read_csv(config["input"])
 X = data.iloc[:,3:-1]
+X.drop(X.columns[[1,3,7,13,14,15,17,20,21,22]], axis=1, inplace=True)
+
 y = data.iloc[:,-1]
-pipe = Pipeline([('scaler', StandardScaler()), ('svc', SVC(C=10.0000, gamma=0.010, kernel="rbf", class_weight="balanced", probability=True))])
+pipe = Pipeline([('scaler', RobustScaler()), ('clf', xgb.XGBClassifier(
+        colsample_bylevel=0.6, 
+        colsample_bytree=0.7, 
+        learning_rate=0.01, 
+        max_depth=6,
+        n_estimators=500,
+        subsample=0.5,
+        use_label_encoder=False
+    ))])
 pipe.fit(X, y)
 
-dump(pipe, 'model.joblib')
+dump(pipe, config["output"])

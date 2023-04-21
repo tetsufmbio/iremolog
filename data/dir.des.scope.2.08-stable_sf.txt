@@ -1,0 +1,2368 @@
+46458	sf	a.1.1	-	Globin-like
+46548	sf	a.1.2	-	alpha-helical ferredoxin
+46557	sf	a.2.1	-	GreA transcript cleavage protein, N-terminal domain
+46561	sf	a.2.2	-	Ribosomal protein L29 (L29p)
+46565	sf	a.2.3	-	Chaperone J-domain
+46579	sf	a.2.5	-	Prefoldin
+46585	sf	a.2.6	-	HR1 repeat
+46589	sf	a.2.7	-	tRNA-binding arm
+46596	sf	a.2.8	-	Eukaryotic DNA topoisomerase I, dispensable insert domain
+46600	sf	a.2.9	-	C-terminal UvrC-binding domain of UvrB
+46604	sf	a.2.10	-	Epsilon subunit of F1F0-ATP synthase C-terminal domain
+46609	sf	a.2.11	-	Fe,Mn superoxide dismutase (SOD), N-terminal domain
+100985	sf	a.2.12	-	Sporulation inhibitor Sda
+109631	sf	a.2.13	-	Transcriptional repressor TraM
+109635	sf	a.2.14	-	DnaK suppressor protein DksA, alpha-hairpin domain
+140102	sf	a.2.15	-	ISY1 domain-like
+140106	sf	a.2.16	-	Calcyclin-binding protein-like
+140111	sf	a.2.17	-	Endosomal sorting complex assembly domain
+140121	sf	a.2.18	-	SPy1572-like
+140125	sf	a.2.19	-	Rabenosyn-5 Rab-binding domain-like
+140129	sf	a.2.20	-	MxiH-like
+158221	sf	a.2.21	-	YnzC-like
+46626	sf	a.3.1	-	Cytochrome c
+46689	sf	a.4.1	-	Homeodomain-like
+46767	sf	a.4.2	-	Methylated DNA-protein cysteine methyltransferase, C-terminal domain
+46774	sf	a.4.3	-	ARID-like
+46785	sf	a.4.5	-	'Winged helix' DNA-binding domain
+46894	sf	a.4.6	-	C-terminal effector domain of the bipartite response regulators
+46906	sf	a.4.7	-	Ribosomal protein L11, C-terminal domain
+46911	sf	a.4.8	-	Ribosomal protein S18
+46915	sf	a.4.9	-	Polynucleotide phosphorylase/guanosine pentaphosphate synthase (PNPase/GPSI), domain 3
+46919	sf	a.4.10	-	Retroviral integrase, N-terminal Zn binding domain
+46924	sf	a.4.11	-	RNA polymerase subunit RPB10
+48295	sf	a.4.12	-	TrpR-like
+88659	sf	a.4.13	-	Sigma3 and sigma4 domains of RNA polymerase sigma factors
+109709	sf	a.4.14	-	KorB DNA-binding domain-like
+116820	sf	a.4.15	-	Rps17e-like
+46929	sf	a.5.1	-	DNA helicase RuvA subunit, C-terminal domain
+46934	sf	a.5.2	-	UBA-like
+46938	sf	a.5.3	-	CRAL/TRIO N-terminal domain
+46942	sf	a.5.4	-	Elongation factor TFIIS domain 2
+46950	sf	a.5.6	-	Double-stranded DNA-binding domain
+89000	sf	a.5.7	-	post-HMGL domain-like
+109728	sf	a.5.8	-	Hypothetical protein AF0491, middle domain
+109732	sf	a.5.9	-	HBS1-like domain
+109736	sf	a.5.10	-	FGAM synthase PurL, linker domain
+46955	sf	a.6.1	-	Putative DNA-binding domain
+46966	sf	a.7.1	-	Spectrin repeat
+46973	sf	a.7.2	-	Enzyme IIa from lactose specific PTS, IIa-lac
+46977	sf	a.7.3	-	Succinate dehydrogenase/fumarate reductase flavoprotein C-terminal domain
+46984	sf	a.7.4	-	Smac/diablo
+46988	sf	a.7.5	-	Tubulin chaperone cofactor A
+46992	sf	a.7.6	-	Ribosomal protein S20
+63491	sf	a.7.7	-	BAG domain
+89009	sf	a.7.8	-	GAT-like domain
+109747	sf	a.7.10	-	Glycogen synthesis protein GlgS
+109751	sf	a.7.11	-	Alpha-hemoglobin stabilizing protein AHSP
+109755	sf	a.7.12	-	PhoU-like
+116842	sf	a.7.13	-	XseB-like
+116846	sf	a.7.14	-	MIT domain
+140356	sf	a.7.15	-	PPK N-terminal domain-like
+140361	sf	a.7.16	-	MIT domain-like
+158366	sf	a.7.17	-	Efb C-domain-like
+46997	sf	a.8.1	-	Bacterial immunoglobulin/albumin-binding domains
+81710	sf	a.8.2	-	Plasmid maintenance system epsilon/zeta, antidote epsilon subunit
+88688	sf	a.8.3	-	Families 57/38 glycoside transferase middle domain
+100934	sf	a.8.4	-	Heat shock protein 70kD (HSP70), C-terminal subdomain
+101089	sf	a.8.5	-	Phosphoprotein XD domain
+101094	sf	a.8.6	-	Staphylocoagulase
+101082	sf	a.8.7	-	Typo IV secretion system protein TraC
+116854	sf	a.8.8	-	Avirulence protein AvrPto
+140367	sf	a.8.9	-	Coronavirus NSP7-like
+140371	sf	a.8.10	-	Vng1086c-like
+158372	sf	a.8.11	-	AF1782-like
+47005	sf	a.9.1	-	Peripheral subunit-binding domain of 2-oxo acid dehydrogenase complex
+47014	sf	a.10.1	-	Protozoan pheromone proteins
+116858	sf	a.10.2	-	Hypothetical membrane protein Ta0354, soluble domain
+47027	sf	a.11.1	-	Acyl-CoA binding protein
+47031	sf	a.11.2	-	Second domain of FERM
+47040	sf	a.12.1	-	Kix domain of CBP (creb binding protein)
+47045	sf	a.13.1	-	RAP domain-like
+47050	sf	a.14.1	-	VHP, Villin headpiece domain
+47055	sf	a.15.1	-	TAF(II)230 TBP-binding fragment
+47060	sf	a.16.1	-	S15/NS1 RNA-binding domain
+47072	sf	a.17.1	-	Cysteine alpha-hairpin motif
+47077	sf	a.18.1	-	T4 endonuclease V
+47082	sf	a.19.1	-	Fertilization protein
+47090	sf	a.20.1	-	PGBD-like
+47095	sf	a.21.1	-	HMG-box
+47113	sf	a.22.1	-	Histone-fold
+47144	sf	a.23.1	-	HSC20 (HSCB), C-terminal oligomerisation domain
+47148	sf	a.23.2	-	Diol dehydratase, gamma subunit
+47152	sf	a.23.3	-	Methane monooxygenase hydrolase, gamma subunit
+47157	sf	a.23.4	-	Mitochondrial import receptor subunit Tom20
+68989	sf	a.23.5	-	Hemolysin expression modulating protein HHA
+140404	sf	a.23.6	-	EF2458-like
+158388	sf	a.23.7	-	YvfG-like
+47162	sf	a.24.1	-	Apolipoprotein
+47170	sf	a.24.2	-	Aspartate receptor, ligand-binding domain
+47175	sf	a.24.3	-	Cytochromes
+47188	sf	a.24.4	-	Hemerythrin-like
+47195	sf	a.24.5	-	TMV-like viral coat proteins
+47212	sf	a.24.7	-	FKBP12-rapamycin-binding domain of FKBP-rapamycin-associated protein (FRAP)
+47216	sf	a.24.8	-	Proteasome activator
+47220	sf	a.24.9	-	alpha-catenin/vinculin-like
+47226	sf	a.24.10	-	Histidine-containing phosphotransfer domain, HPT domain
+47233	sf	a.24.11	-	Bacterial GAP domain
+63515	sf	a.24.12	-	Outer surface protein C (OspC)
+47364	sf	a.24.13	-	Domain of the SRP/SRP receptor G-proteins
+68993	sf	a.24.14	-	FAT domain of focal adhesion kinase
+69000	sf	a.24.15	-	FAD-dependent thiol oxidase
+81593	sf	a.24.16	-	Nucleotidyltransferase substrate binding subunit/domain
+81736	sf	a.24.17	-	Group V grass pollen allergen
+101112	sf	a.24.18	-	Oxygen-evolving enhancer protein 3,
+101116	sf	a.24.19	-	Flagellar export chaperone FliS
+101125	sf	a.24.20	-	Colicin D immunity protein
+69008	sf	a.24.21	-	RecG, N-terminal domain
+109770	sf	a.24.22	-	Nickel-containing superoxide dismutase, NiSOD
+109775	sf	a.24.23	-	Mannose-6-phosphate receptor binding protein 1 (Tip47), C-terminal domain
+109779	sf	a.24.24	-	Domain from hypothetical 2610208m17rik protein
+116878	sf	a.24.25	-	TrmE connector domain
+140415	sf	a.24.26	-	YppE-like
+140423	sf	a.24.27	-	MW0975(SA0943)-like
+140427	sf	a.24.28	-	VPS28 C-terminal domain-like
+158397	sf	a.24.29	-	TM1646-like
+418771	sf	a.24.30	-	Helical bundle domains from Csm1/Cmr1-like
+47240	sf	a.25.1	-	Ferritin-like
+89028	sf	a.25.2	-	Cobalamin adenosyltransferase-like
+140453	sf	a.25.3	-	EsxAB dimer-like
+140459	sf	a.25.4	-	PE/PPE dimer-like
+158414	sf	a.25.5	-	HP0062-like
+158418	sf	a.25.6	-	SO2669-like
+47266	sf	a.26.1	-	4-helical cytokines
+47323	sf	a.27.1	-	Anticodon-binding domain of a subclass of class I aminoacyl-tRNA synthetases
+47336	sf	a.28.1	-	ACP-like
+47345	sf	a.28.2	-	Colicin E immunity proteins
+47353	sf	a.28.3	-	Retrovirus capsid dimerization domain-like
+47370	sf	a.29.2	-	Bromodomain
+47203	sf	a.29.3	-	Acyl-CoA dehydrogenase C-terminal domain-like
+69012	sf	a.29.5	-	alpha-ketoacid dehydrogenase kinase, N-terminal domain
+101148	sf	a.29.6	-	Plant invertase/pectin methylesterase inhibitor
+101152	sf	a.29.7	-	Mob1/phocein
+109797	sf	a.29.8	-	Bacteriocin immunity protein-like
+140478	sf	a.29.9	-	LemA-like
+140482	sf	a.29.10	-	MAST3 pre-PK domain-like
+140486	sf	a.29.11	-	PA2201 N-terminal domain-like
+140490	sf	a.29.12	-	Nqo1C-terminal domain-like
+158430	sf	a.29.13	-	Bacillus cereus metalloprotein-like
+158436	sf	a.29.14	-	Ta0600-like
+158442	sf	a.29.15	-	DsbB-like
+158446	sf	a.29.16	-	IVS-encoded protein-like
+158452	sf	a.29.17	-	YqcC-like
+47380	sf	a.30.1	-	ROP protein
+47384	sf	a.30.2	-	Homodimeric domain of signal transducing histidine kinase
+101156	sf	a.30.3	-	Nonstructural protein ns2, Nep, M1-binding domain
+101160	sf	a.30.4	-	Dimerisation domain of CENP-B
+109801	sf	a.30.5	-	Hypothetical protein D-63
+140496	sf	a.30.6	-	HP1531-like
+140500	sf	a.30.7	-	BAS1536-like
+140506	sf	a.30.8	-	FHV B2 protein-like
+47391	sf	a.31.1	-	Dimerization-anchoring domain of cAMP-dependent PK regulatory subunit
+47396	sf	a.32.1	-	Transcription factor IIA (TFIIA), alpha-helical domain
+47401	sf	a.33.1	-	Ectatomin subunits
+47406	sf	a.34.1	-	SinR repressor dimerisation domain-like
+100957	sf	a.34.2	-	Dimerization cofactor of HNF-1 alpha
+101166	sf	a.34.3	-	Docking domain A of the erythromycin polyketide synthase (DEBS)
+109805	sf	a.34.4	-	Phenylalanine zipper
+47413	sf	a.35.1	-	lambda repressor-like DNA-binding domains
+47446	sf	a.36.1	-	Signal peptide-binding domain
+47454	sf	a.37.1	-	A DNA-binding domain in eukaryotic transcription factors
+47459	sf	a.38.1	-	HLH, helix-loop-helix DNA-binding domain
+101173	sf	a.38.2	-	Docking domain B of the erythromycin polyketide synthase (DEBS)
+47473	sf	a.39.1	-	EF-hand
+47565	sf	a.39.2	-	Insect pheromone/odorant-binding proteins
+47571	sf	a.39.3	-	Cloroperoxidase
+69025	sf	a.39.4	-	Hypothetical protein MTH865
+47576	sf	a.40.1	-	Calponin-homology domain, CH-domain
+81761	sf	a.40.2	-	X-Prolyl dipeptidyl aminopeptidase PepX, N-terminal domain
+116907	sf	a.40.3	-	Hook domain
+47587	sf	a.41.1	-	Domain of poly(ADP-ribose) polymerase
+47592	sf	a.42.1	-	SWIB/MDM2 domain
+47598	sf	a.43.1	-	Ribbon-helix-helix
+47616	sf	a.45.1	-	GST C-terminal domain-like
+47644	sf	a.46.1	-	Methionine synthase domain
+47648	sf	a.46.2	-	Nucleoside phosphorylase/phosphoribosyltransferase N-terminal domain
+140560	sf	a.46.3	-	TM0693-like
+47655	sf	a.47.1	-	STAT
+47661	sf	a.47.2	-	t-snare proteins
+109839	sf	a.47.3	-	Cag-Z
+109843	sf	a.47.4	-	CAPPD, an extracellular domain of amyloid beta A4 protein
+140566	sf	a.47.5	-	FlgN-like
+140570	sf	a.47.6	-	MukF C-terminal domain-like
+47668	sf	a.48.1	-	N-terminal domain of cbl (N-cbl)
+47672	sf	a.48.2	-	Transferrin receptor-like dimerisation domain
+47676	sf	a.48.3	-	Conserved domain common to transcription factors TFIIS, elongin A, CRSP70
+140576	sf	a.48.4	-	HIV integrase-binding domain
+158494	sf	a.48.5	-	PG0775 C-terminal domain-like
+47681	sf	a.49.1	-	C-terminal domain of B transposition protein
+47686	sf	a.50.1	-	Anaphylotoxins (complement system)
+47694	sf	a.51.1	-	Cytochrome c oxidase subunit h
+47699	sf	a.52.1	-	Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin
+47719	sf	a.53.1	-	p53 tetramerization domain
+47724	sf	a.54.1	-	Domain of early E2A DNA-binding protein, ADDBP
+47729	sf	a.55.1	-	IHF-like DNA-binding proteins
+47741	sf	a.56.1	-	CO dehydrogenase ISP C-domain like
+47752	sf	a.57.1	-	Protein HNS-dependent expression A; HdeA
+47757	sf	a.58.1	-	Chemotaxis receptor methyltransferase CheR, N-terminal domain
+47762	sf	a.59.1	-	PAH2 domain
+47769	sf	a.60.1	-	SAM/Pointed domain
+47781	sf	a.60.2	-	RuvA domain 2-like
+47789	sf	a.60.3	-	C-terminal domain of RNA polymerase alpha subunit
+47794	sf	a.60.4	-	Rad51 N-terminal domain-like
+47798	sf	a.60.5	-	Barrier-to-autointegration factor, BAF
+47802	sf	a.60.6	-	DNA polymerase beta, N-terminal domain-like
+47807	sf	a.60.7	-	5' to 3' exonuclease, C-terminal subdomain
+47819	sf	a.60.8	-	HRDC-like
+47823	sf	a.60.9	-	lambda integrase-like, N-terminal domain
+47831	sf	a.60.10	-	Enzyme I of the PEP:sugar phosphotransferase system HPr-binding (sub)domain
+69047	sf	a.60.11	-	Hypothetical protein YjbJ
+81585	sf	a.60.12	-	PsbU/PolX domain-like
+81799	sf	a.60.13	-	Putative methyltransferase TM0872, insert domain
+116742	sf	a.60.14	-	eIF2alpha middle domain-like
+140652	sf	a.60.15	-	YozE-like
+158544	sf	a.60.16	-	GspK insert domain-like
+418757	sf	a.60.17	-	SAM domain from DprA-like
+47836	sf	a.61.1	-	Retroviral matrix proteins
+47852	sf	a.62.1	-	Hepatitis B viral capsid (hbcag)
+47857	sf	a.63.1	-	Apolipophorin-III
+47862	sf	a.64.1	-	Saposin
+47869	sf	a.64.2	-	Bacteriocin AS-48
+47874	sf	a.65.1	-	Annexin
+47895	sf	a.66.1	-	Transducin (alpha subunit), insertion domain
+47912	sf	a.68.1	-	Wiscott-Aldrich syndrome protein, WASP, C-terminal domain
+47917	sf	a.69.1	-	C-terminal domain of alpha and beta (or A/B) subunits of rotary ATPases
+47923	sf	a.69.2	-	Ypt/Rab-GAP domain of gyp1p
+69055	sf	a.69.3	-	1-deoxy-D-xylulose-5-phosphate reductoisomerase, C-terminal domain
+158560	sf	a.69.4	-	BH3980-like
+47928	sf	a.70.1	-	N-terminal domain of the delta subunit of the F1F0-ATP synthase
+158568	sf	a.70.2	-	AF1862-like
+47933	sf	a.71.1	-	ERP29 C domain-like
+81811	sf	a.71.2	-	Helical domain of Sec23/24
+47938	sf	a.72.1	-	Functional domain of the splicing factor Prp18
+47943	sf	a.73.1	-	Retrovirus capsid protein, N-terminal core domain
+47954	sf	a.74.1	-	Cyclin-like
+47973	sf	a.75.1	-	Ribosomal protein S7
+47979	sf	a.76.1	-	Iron-dependent repressor protein, dimerization domain
+47986	sf	a.77.1	-	DEATH domain
+48008	sf	a.78.1	-	GntR ligand-binding domain-like
+48013	sf	a.79.1	-	NusB-like
+48019	sf	a.80.1	-	post-AAA+ oligomerization domain-like
+48024	sf	a.81.1	-	N-terminal domain of DnaB helicase
+48034	sf	a.83.1	-	Guanido kinase N-terminal domain
+48045	sf	a.84.1	-	Scaffolding protein gpD of bacteriophage procapsid
+48050	sf	a.85.1	-	Hemocyanin, N-terminal domain
+48056	sf	a.86.1	-	Di-copper centre-containing domain
+48065	sf	a.87.1	-	DBL homology domain (DH-domain)
+48076	sf	a.88.1	-	LigA subunit of an aromatic-ring-opening dioxygenase LigAB
+48081	sf	a.89.1	-	Methyl-coenzyme M reductase alpha and beta chain C-terminal domain
+48092	sf	a.90.1	-	Transcription factor STAT-4 N-domain
+48097	sf	a.91.1	-	Regulator of G-protein signaling, RGS
+48108	sf	a.92.1	-	Carbamoyl phosphate synthetase, large subunit connection domain
+48113	sf	a.93.1	-	Heme-dependent peroxidases
+48140	sf	a.94.1	-	Ribosomal protein L19 (L19e)
+48145	sf	a.95.1	-	Influenza virus matrix protein M1
+48150	sf	a.96.1	-	DNA-glycosylase
+48163	sf	a.97.1	-	An anticodon-binding domain of class I aminoacyl-tRNA synthetases
+48168	sf	a.98.1	-	R1 subunit of ribonucleotide reductase, N-terminal domain
+48173	sf	a.99.1	-	Cryptochrome/photolyase FAD-binding domain
+48179	sf	a.100.1	-	6-phosphogluconate dehydrogenase C-terminal domain-like
+48201	sf	a.101.1	-	Uteroglobin-like
+48208	sf	a.102.1	-	Six-hairpin glycosidases
+48225	sf	a.102.2	-	Seven-hairpin glycosidases
+48230	sf	a.102.3	-	Chondroitin AC/alginate lyase
+48239	sf	a.102.4	-	Terpenoid cyclases/Protein prenyltransferases
+81853	sf	a.102.5	-	Family 10 polysaccharide lyase
+158745	sf	a.102.6	-	LanC-like
+48256	sf	a.103.1	-	Citrate synthase
+48264	sf	a.104.1	-	Cytochrome P450
+48300	sf	a.108.1	-	Ribosomal protein L7/12, oligomerisation (N-terminal) domain
+48305	sf	a.109.1	-	Class II MHC-associated invariant chain ectoplasmic trimerization domain
+48310	sf	a.110.1	-	Aldehyde ferredoxin oxidoreductase, C-terminal domains
+48317	sf	a.111.1	-	Acid phosphatase/Vanadium-dependent haloperoxidase
+48334	sf	a.113.1	-	DNA repair protein MutS, domain III
+48340	sf	a.114.1	-	Interferon-induced guanylate-binding protein 1 (GBP1), C-terminal domain
+48345	sf	a.115.1	-	A virus capsid protein alpha-helical domain
+48350	sf	a.116.1	-	GTPase activation domain, GAP
+48366	sf	a.117.1	-	Ras GEF
+48371	sf	a.118.1	-	ARM repeat
+48425	sf	a.118.3	-	Sec7 domain
+48431	sf	a.118.4	-	Lipovitellin-phosvitin complex, superhelical domain
+48435	sf	a.118.5	-	Bacterial muramidases
+48439	sf	a.118.6	-	Protein prenylyltransferase
+48445	sf	a.118.7	-	14-3-3 protein
+48452	sf	a.118.8	-	TPR-like
+48464	sf	a.118.9	-	ENTH/VHS domain
+48479	sf	a.118.11	-	Cytochrome c oxidase subunit E
+69099	sf	a.118.12	-	Ran-GTPase activating protein 1 (RanGAP1), C-terminal domain
+69103	sf	a.118.13	-	Arp2/3 complex 16 kDa subunit ARPC5
+48029	sf	a.118.14	-	FliG
+74778	sf	a.118.15	-	Aconitase B, N-terminal domain
+74784	sf	a.118.16	-	Translin
+74788	sf	a.118.17	-	Cullin repeat-like
+81901	sf	a.118.18	-	HCP-like
+101420	sf	a.118.19	-	C-terminal domain of Ku80
+101424	sf	a.118.20	-	Hypothetical protein ST1625
+100910	sf	a.118.21	-	Chemosensory protein Csp2
+100909	sf	a.118.22	-	IP3 receptor type 1 binding core, domain 2
+140856	sf	a.118.23	-	USP8 N-terminal domain-like
+140860	sf	a.118.24	-	Pseudo ankyrin repeat-like
+140864	sf	a.118.25	-	TROVE domain-like
+158791	sf	a.118.26	-	MgtE N-terminal domain-like
+310601	sf	a.118.27	-	DIL domain-like
+345915	sf	a.118.28	-	Proteasome regulatory subunit Rpn2 N-terminal domain-like
+345916	sf	a.118.29	-	U5 small nuclear riboprotein particle assembly factor Aar2 C-terminal domain-like
+345917	sf	a.118.30	-	Pre-mRNA splicing factor Prp38 N-terminal-like
+48484	sf	a.119.1	-	Lipoxigenase
+48493	sf	a.120.1	-	gene 59 helicase assembly protein
+48498	sf	a.121.1	-	Tetracyclin repressor-like, C-terminal domain
+48508	sf	a.123.1	-	Nuclear receptor ligand-binding domain
+48537	sf	a.124.1	-	Phospholipase C/P1 nuclease
+48552	sf	a.126.1	-	Serum albumin-like
+48557	sf	a.127.1	-	L-aspartase-like
+48576	sf	a.128.1	-	Terpenoid synthases
+48592	sf	a.129.1	-	GroEL equatorial domain-like
+48600	sf	a.130.1	-	Chorismate mutase II
+48608	sf	a.131.1	-	Peridinin-chlorophyll protein
+48613	sf	a.132.1	-	Heme oxygenase-like
+48619	sf	a.133.1	-	Phospholipase A2, PLA2
+48647	sf	a.134.1	-	Fungal elicitin
+48652	sf	a.135.1	-	Tetraspanin
+48657	sf	a.136.1	-	FinO-like
+48662	sf	a.137.1	-	Ribosomal protein L39e
+48666	sf	a.137.2	-	Methanol dehydrogenase subunit
+48670	sf	a.137.3	-	Transducin (heterotrimeric G protein), gamma chain
+48674	sf	a.137.4	-	Fe-only hydrogenase smaller subunit
+48678	sf	a.137.5	-	Moesin tail domain
+48686	sf	a.137.7	-	Proteinase A inhibitor IA3
+48690	sf	a.137.8	-	Epsilon subunit of mitochondrial F1F0-ATP synthase
+69131	sf	a.137.9	-	Quinohemoprotein amine dehydrogenase C chain
+101494	sf	a.137.10	-	Stathmin
+101498	sf	a.137.11	-	Anti-sigma factor FlgM
+141000	sf	a.137.12	-	Glu-tRNAGln amidotransferase C subunit
+141004	sf	a.137.13	-	RelB-like
+158851	sf	a.137.14	-	Lag-3 N-terminal region
+158855	sf	a.137.15	-	Lipase chaperone-like
+48695	sf	a.138.1	-	Multiheme cytochromes
+63446	sf	a.139.1	-	Type I dockerin domain
+63451	sf	a.140.1	-	LEM domain
+68906	sf	a.140.2	-	SAP domain
+68912	sf	a.140.3	-	Rho N-terminal domain-like
+68918	sf	a.140.4	-	Recombination endonuclease VII, C-terminal and dimerization domains
+116768	sf	a.140.5	-	DNA-binding domain of EIN3-like
+158230	sf	a.140.6	-	PRP4-like
+63501	sf	a.141.1	-	Frizzled cysteine-rich domain
+63520	sf	a.142.1	-	PTS-regulatory domain, PRD
+63562	sf	a.143.1	-	RPB6/omega subunit-like
+63570	sf	a.144.1	-	PABC (PABP) domain
+74731	sf	a.144.2	-	Ribosomal protein L20
+63592	sf	a.145.1	-	Flagellar transcriptional activator FlhD
+63600	sf	a.146.1	-	Telomeric repeat binding factor (TRF) dimerisation domain
+69036	sf	a.147.1	-	Bcr-Abl oncoprotein oligomerization domain
+69060	sf	a.148.1	-	Arp2/3 complex 21 kDa subunit ARPC3
+69065	sf	a.149.1	-	RNase III domain-like
+69070	sf	a.150.1	-	Anti-sigma factor AsiA
+69075	sf	a.151.1	-	Glutamyl tRNA-reductase dimerization domain
+69118	sf	a.152.1	-	AhpD-like
+69125	sf	a.153.1	-	Nuclear receptor coactivator interlocking domain
+74748	sf	a.154.1	-	Variable surface antigen VlsE
+81273	sf	a.155.1	-	H-NS histone-like proteins
+46946	sf	a.156.1	-	S13-like H2TH domain
+81382	sf	a.157.1	-	Skp1 dimerisation domain-like
+81383	sf	a.158.1	-	F-box domain
+81601	sf	a.159.1	-	Protein serine/threonine phosphatase 2C, C-terminal domain
+81698	sf	a.159.2	-	FF domain
+101059	sf	a.159.3	-	B-form DNA mimic Ocr
+109715	sf	a.159.4	-	DEK C-terminal domain
+140319	sf	a.159.5	-	IscX-like
+81631	sf	a.160.1	-	PAP/OAS1 substrate-binding domain
+81730	sf	a.161.1	-	beta-catenin-interacting protein ICAT
+81767	sf	a.162.1	-	Pre-protein crosslinking domain of SecA
+81778	sf	a.163.1	-	Crustacean CHH/MIH/GIH neurohormone
+81783	sf	a.164.1	-	C-terminal domain of DFF45/ICAD (DFF-C domain)
+81790	sf	a.165.1	-	Myosin phosphatase inhibitor 17kDa protein, CPI-17
+81822	sf	a.166.1	-	RuBisCo LSMT C-terminal, substrate-binding domain
+81832	sf	a.168.1	-	SopE-like GEF domain
+81837	sf	a.169.1	-	BEACH domain
+81872	sf	a.170.1	-	BRCA2 helical domain
+81878	sf	a.171.1	-	BRCA2 tower domain
+81886	sf	a.172.1	-	Helical scaffold and wing domains of SecA
+81891	sf	a.173.1	-	Poly A polymerase C-terminal region-like
+81923	sf	a.174.1	-	Double Clp-N motif
+81930	sf	a.175.1	-	Orange carotenoid protein, N-terminal domain
+81935	sf	a.176.1	-	N-terminal domain of bifunctional PutA protein
+88946	sf	a.177.1	-	Sigma2 domain of RNA polymerase sigma factors
+89043	sf	a.178.1	-	Soluble domain of poliovirus core protein 3a
+89064	sf	a.179.1	-	Replisome organizer (g39p helicase loader/inhibitor protein)
+89069	sf	a.180.1	-	N-terminal, cytoplasmic domain of anti-sigmaE factor RseA
+89082	sf	a.181.1	-	Antibiotic binding domain of TipA-like multidrug resistance regulators
+89095	sf	a.182.1	-	GatB/YqeY motif
+89124	sf	a.183.1	-	Nop domain
+89155	sf	a.184.1	-	TorD-like
+89162	sf	a.185.1	-	Gametocyte protein Pfg27
+101215	sf	a.186.1	-	KaiA/RbsU domain
+101224	sf	a.187.1	-	HAND domain of the nucleosome remodeling ATPase ISWI
+101233	sf	a.188.1	-	PWI domain
+101238	sf	a.189.1	-	XPC-binding domain
+101257	sf	a.190.1	-	Flavivirus capsid protein C
+101262	sf	a.191.1	-	Methenyltetrahydrofolate cyclohydrolase-like
+101278	sf	a.192.1	-	N-terminal domain of adenylylcyclase associated protein, CAP
+101283	sf	a.193.1	-	GRIP domain
+101288	sf	a.194.1	-	L27 domain
+101307	sf	a.195.1	-	YutG-like
+101312	sf	a.196.1	-	Invasion protein A (SipA) , C-terminal actin binding domain
+101322	sf	a.198.1	-	YcfC-like
+101327	sf	a.199.1	-	YgfB-like
+101332	sf	a.200.1	-	Hypothetical protein MTH393
+101344	sf	a.202.1	-	Superantigen MAM
+101353	sf	a.203.1	-	Putative anticodon-binding domain of alanyl-tRNA synthetase (AlaRS)
+101386	sf	a.204.1	-	all-alpha NTP pyrophosphatases
+101391	sf	a.205.1	-	Hsp90 co-chaperone CDC37
+101399	sf	a.206.1	-	P40 nucleoprotein
+101447	sf	a.207.1	-	Formin homology 2 domain (FH2 domain)
+101473	sf	a.208.1	-	DhaL-like
+101478	sf	a.209.1	-	ADP-ribosylglycohydrolase
+101489	sf	a.210.1	-	Eukaryotic initiation factor 4f subunit eIF4g, eIF4e-binding domain
+109604	sf	a.211.1	-	HD-domain/PDEase-like
+109640	sf	a.212.1	-	KRAB domain (Kruppel-associated box)
+109854	sf	a.213.1	-	DinB/YfiT-like putative metalloenzymes
+109859	sf	a.214.1	-	NblA-like
+109880	sf	a.215.1	-	A middle domain of Talin 1
+109885	sf	a.216.1	-	I/LWEQ domain
+109905	sf	a.217.1	-	Surp module (SWAP domain)
+109910	sf	a.218.1	-	YgfY-like
+109915	sf	a.219.1	-	Hypothetical protein YhaI
+109920	sf	a.220.1	-	Hypothetical protein At3g22680
+109925	sf	a.221.1	-	Lissencephaly-1 protein (Lis-1, PAF-AH alpha) N-terminal domain
+109993	sf	a.222.1	-	VPS9 domain
+109998	sf	a.223.1	-	Triger factor/SurA peptide-binding domain-like
+110004	sf	a.224.1	-	Glycolipid transfer protein, GLTP
+110009	sf	a.225.1	-	Hypothetical protein MG354
+110014	sf	a.226.1	-	Her-1
+110019	sf	a.227.1	-	ERO1-like
+110035	sf	a.228.1	-	GDNF receptor-like
+116915	sf	a.229.1	-	Hypothetical protein YqbG
+116922	sf	a.230.1	-	YugE-like
+116927	sf	a.231.1	-	EspA/CesA-like
+116942	sf	a.232.1	-	RNA-binding protein She2p
+116960	sf	a.233.1	-	YfbU-like
+116965	sf	a.234.1	-	Hypothetical protein MPN330
+117018	sf	a.235.1	-	ATP-dependent DNA ligase DNA-binding domain
+117023	sf	a.236.1	-	DNA primase DnaG, C-terminal domain
+46575	sf	a.237.1	-	DNA polymerase III theta subunit-like
+103657	sf	a.238.1	-	BAR/IMD domain-like
+140376	sf	a.239.1	-	ChaB-like
+140383	sf	a.240.1	-	BSD domain-like
+140581	sf	a.241.1	-	TraM-like
+140586	sf	a.242.1	-	Dcp2 domain-like
+140591	sf	a.243.1	-	Type III secretion system domain
+140607	sf	a.244.1	-	EF2947-like
+140612	sf	a.245.1	-	EB1 dimerisation domain-like
+140657	sf	a.246.1	-	Hyaluronidase post-catalytic domain-like
+140663	sf	a.246.2	-	TTHA0068-like
+158548	sf	a.246.3	-	FLJ32549 domain-like
+140670	sf	a.247.1	-	YoaC-like
+140683	sf	a.248.1	-	SP0561-like
+140688	sf	a.249.1	-	YfmB-like
+140693	sf	a.250.1	-	IpaD-like
+140713	sf	a.251.1	-	Phage replication organizer domain
+140718	sf	a.252.1	-	Mediator hinge subcomplex-like
+140726	sf	a.253.1	-	AF0941-like
+140731	sf	a.254.1	-	PA2201 C-terminal domain-like
+140736	sf	a.255.1	-	Rv1873-like
+140741	sf	a.256.1	-	RUN domain-like
+140746	sf	a.257.1	-	SipA N-terminal domain-like
+140753	sf	a.258.1	-	PG0816-like
+140804	sf	a.259.1	-	YidB-like
+140809	sf	a.260.1	-	Rhabdovirus nucleoprotein-like
+140869	sf	a.261.1	-	GUN4-like
+140914	sf	a.262.1	-	PriB N-terminal domain-like
+140919	sf	a.263.1	-	DNA terminal protein
+140924	sf	a.264.1	-	Duffy binding domain-like
+140931	sf	a.265.1	-	Fic-like
+140959	sf	a.266.1	-	Indolic compounds 2,3-dioxygenase-like
+140979	sf	a.267.1	-	Topoisomerase V catalytic domain-like
+140984	sf	a.268.1	-	PTPA-like
+140990	sf	a.269.1	-	FtsH protease domain-like
+140996	sf	a.270.1	-	Hermes dimerisation domain
+158235	sf	a.271.1	-	SOCS box-like
+158379	sf	a.272.1	-	YqgQ-like
+158457	sf	a.273.1	-	Orange domain-like
+158472	sf	a.274.1	-	HAMP domain-like
+158499	sf	a.275.1	-	DnaD domain-like
+158504	sf	a.276.1	-	BH2638-like
+158553	sf	a.277.1	-	TAFH domain-like
+158573	sf	a.278.1	-	GINS helical bundle-like
+158587	sf	a.279.1	-	Jann4075-like
+158615	sf	a.280.1	-	RbcX-like
+158622	sf	a.281.1	-	YheA/YmcA-like
+158634	sf	a.282.1	-	RPA2825-like
+158639	sf	a.283.1	-	ENT-like
+158651	sf	a.284.1	-	YejL-like
+158668	sf	a.285.1	-	MtlR-like
+158675	sf	a.286.1	-	Sama2622-like
+158682	sf	a.287.1	-	TerB-like
+158694	sf	a.288.1	-	UraD-Like
+158702	sf	a.289.1	-	Sec63 N-terminal domain-like
+158710	sf	a.290.1	-	PSPTO4464-like
+158715	sf	a.291.1	-	MG296-like
+158752	sf	a.292.1	-	HP0242-like
+158757	sf	a.293.1	-	SMc04008-like
+158832	sf	a.294.1	-	Tex N-terminal region-like
+158837	sf	a.295.1	-	AGR_C_984p-like
+158842	sf	a.296.1	-	PMT central region-like
+254135	sf	a.297.1	-	DDB1 C-terminal-like
+267596	sf	a.298.1	-	TAL effector-like
+310587	sf	a.299.1	-	Tenuivirus/Phlebovirus nucleocapsid protein
+310594	sf	a.300.1	-	Arenavirus nucleocapsid protein N-terminal domain-like
+310603	sf	a.301.1	-	Sus1-like
+418760	sf	a.302.1	-	Putative dsDNA-binding domain from CRISPR-associated protein Cas12a / Cpf1-like
+48726	sf	b.1.1	-	Immunoglobulin
+49265	sf	b.1.2	-	Fibronectin type III
+49299	sf	b.1.3	-	PKD domain
+49303	sf	b.1.4	-	beta-Galactosidase/glucuronidase domain
+49309	sf	b.1.5	-	Transglutaminase, two C-terminal domains
+49313	sf	b.1.6	-	Cadherin-like
+49319	sf	b.1.7	-	Actinoxanthin-like
+49329	sf	b.1.8	-	Cu,Zn superoxide dismutase-like
+49344	sf	b.1.9	-	CBD9-like
+49348	sf	b.1.10	-	Clathrin adaptor appendage domain
+49354	sf	b.1.11	-	PapD-like
+49363	sf	b.1.12	-	Purple acid phosphatase, N-terminal domain
+49367	sf	b.1.13	-	Superoxide reductase-like
+49373	sf	b.1.14	-	Invasin/intimin cell-adhesion fragments
+69179	sf	b.1.15	-	Integrin domains
+74853	sf	b.1.16	-	Lamin A/C globular tail domain
+74863	sf	b.1.17	-	Thiol:disulfide interchange protein DsbD, N-terminal domain (DsbD-alpha)
+81296	sf	b.1.18	-	E set domains
+81982	sf	b.1.19	-	Antigen MPT63/MPB63 (immunoprotective extracellular protein)
+81986	sf	b.1.20	-	Tp47 lipoprotein, middle and C-terminal domains
+101542	sf	b.1.21	-	Fungal immunomodulatory protein, FIP
+101546	sf	b.1.22	-	ASF1-like
+110069	sf	b.1.23	-	ApaG-like
+117066	sf	b.1.24	-	Accessory protein X4 (ORF8, ORF7a)
+117070	sf	b.1.25	-	LEA14-like
+141066	sf	b.1.26	-	ICP-like
+141072	sf	b.1.27	-	CalX-like
+158911	sf	b.1.28	-	NEAT domain-like
+254121	sf	b.1.29	-	Macroglobulin
+254133	sf	b.1.30	-	Zn aminopeptidase insert domain
+254143	sf	b.1.31	-	Fibronectin III-like
+310575	sf	b.1.32	-	Sodium/potassium-transporting ATPase, beta subunit extracellular domain
+310605	sf	b.1.33	-	Membrane antigen precursor-like
+49380	sf	b.2.1	-	Diphtheria toxin, C-terminal domain
+49384	sf	b.2.2	-	Carbohydrate-binding domain
+49401	sf	b.2.3	-	Bacterial adhesins
+49417	sf	b.2.5	-	p53-like transcription factors
+49441	sf	b.2.6	-	Cytochrome f, large domain
+49447	sf	b.2.7	-	Second domain of Mu2 adaptin subunit (ap50) of ap2 adaptor
+81995	sf	b.2.8	-	beta-sandwich domain of Sec23/24
+110083	sf	b.2.9	-	Peptidylarginine deiminase Pad4, middle domain
+110087	sf	b.2.10	-	DR1885-like metal-binding protein
+49452	sf	b.3.1	-	Starch-binding domain-like
+49464	sf	b.3.2	-	Carboxypeptidase regulatory domain-like
+49468	sf	b.3.3	-	VHL
+49472	sf	b.3.4	-	Transthyretin (synonym: prealbumin)
+49478	sf	b.3.5	-	Cna protein B-type domain
+49482	sf	b.3.6	-	Aromatic compound dioxygenase
+117074	sf	b.3.7	-	Hypothetical protein PA1324
+345918	sf	b.3.8	-	Proteasome regulatory subunit Rpn2 C-terminal domain-like
+49493	sf	b.4.1	-	HSP40/DnaJ peptide-binding domain
+49498	sf	b.5.1	-	alpha-Amylase inhibitor tendamistat
+49503	sf	b.6.1	-	Cupredoxins
+74877	sf	b.6.2	-	Major surface antigen p30, SAG1
+49562	sf	b.7.1	-	C2 domain (Calcium/lipid-binding domain, CaLB)
+49584	sf	b.7.2	-	Periplasmic chaperone C-domain
+49590	sf	b.7.3	-	PHL pollen allergen
+49594	sf	b.7.4	-	Rab geranylgeranyltransferase alpha-subunit, insert domain
+158949	sf	b.7.5	-	Smr-associated domain-like
+49599	sf	b.8.1	-	TRAF domain-like
+49606	sf	b.9.1	-	Neurophysin II
+49695	sf	b.11.1	-	gamma-Crystallin-like
+49723	sf	b.12.1	-	Lipase/lipooxygenase domain (PLAT/LH2 domain)
+49758	sf	b.14.1	-	Calpain large subunit, middle domain (domain III)
+49764	sf	b.15.1	-	HSP20-like chaperones
+49772	sf	b.16.1	-	Ecotin, trypsin inhibitor
+49777	sf	b.17.1	-	PEBP-like
+49785	sf	b.18.1	-	Galactose-binding domain-like
+49818	sf	b.19.1	-	Viral protein domain
+49830	sf	b.20.1	-	ENV polyprotein, receptor-binding domain
+49835	sf	b.21.1	-	Virus attachment protein globular domain
+49842	sf	b.22.1	-	TNF-like
+49854	sf	b.23.1	-	Spermadhesin, CUB domain
+141130	sf	b.23.3	-	Acetamidase/Formamidase-like
+254131	sf	b.23.4	-	Complement system CUB domain
+49863	sf	b.24.1	-	Hyaluronate lyase-like, C-terminal domain
+310597	sf	b.24.2	-	Glycosyl hydrolase family 98 C-terminal domain-like
+49870	sf	b.25.1	-	Osmotin, thaumatin-like protein
+49879	sf	b.26.1	-	SMAD/FHA domain
+49889	sf	b.27.1	-	Soluble secreted chemokine inhibitor, VCCI
+49894	sf	b.28.1	-	Baculovirus p35 protein
+49899	sf	b.29.1	-	Concanavalin A-like lectins/glucanases
+49998	sf	b.30.2	-	Amine oxidase catalytic domain
+74650	sf	b.30.5	-	Galactose mutarotase-like
+74914	sf	b.30.6	-	V-region of surface antigen I/II (SA I/II, PAC)
+50012	sf	b.31.1	-	EV matrix protein
+50017	sf	b.32.1	-	gp9
+50022	sf	b.33.1	-	ISP domain
+50037	sf	b.34.1	-	C-terminal domain of transcriptional repressors
+50044	sf	b.34.2	-	SH3-domain
+50084	sf	b.34.3	-	Myosin S1 fragment, N-terminal domain
+50090	sf	b.34.4	-	Electron transport accessory proteins
+50104	sf	b.34.5	-	Translation proteins SH3-like domain
+50118	sf	b.34.6	-	Cell growth inhibitor/plasmid maintenance toxic component
+50122	sf	b.34.7	-	DNA-binding domain of retroviral integrase
+63433	sf	b.34.8	-	Fumarylacetoacetate hydrolase, FAH, N-terminal domain
+63748	sf	b.34.9	-	Tudor/PWWP/MBT
+74924	sf	b.34.10	-	Cap-Gly domain
+82057	sf	b.34.11	-	Prokaryotic SH3-related domain
+82061	sf	b.34.12	-	BAH domain
+54160	sf	b.34.13	-	Chromo domain-like
+101690	sf	b.34.14	-	PAZ domain
+101697	sf	b.34.15	-	Hypothetical protein YfhH
+141251	sf	b.34.16	-	Kinase-associated protein B-like
+141255	sf	b.34.17	-	YccV-like
+141259	sf	b.34.18	-	CarD-like
+159034	sf	b.34.19	-	Mib/herc2 domain-like
+159038	sf	b.34.20	-	YorP-like
+159042	sf	b.34.21	-	Plus3-like
+50129	sf	b.35.1	-	GroES-like
+50151	sf	b.35.2	-	SacY-like RNA-binding domain
+50156	sf	b.36.1	-	PDZ domain-like
+50176	sf	b.37.1	-	N-terminal domains of the minor coat protein g3p
+50182	sf	b.38.1	-	Sm-like ribonucleoproteins
+74942	sf	b.38.2	-	YhbC-like, C-terminal domain
+141300	sf	b.38.3	-	GatD N-terminal domain-like
+159065	sf	b.38.4	-	Dom34/Pelota N-terminal domain-like
+159071	sf	b.38.5	-	TrmB C-terminal domain-like
+50193	sf	b.39.1	-	Ribosomal protein L14
+50199	sf	b.40.1	-	Staphylococcal nuclease
+50203	sf	b.40.2	-	Bacterial enterotoxins
+50242	sf	b.40.3	-	TIMP-like
+50249	sf	b.40.4	-	Nucleic acid-binding proteins
+50324	sf	b.40.5	-	Inorganic pyrophosphatase
+50331	sf	b.40.6	-	MOP-like
+50341	sf	b.40.7	-	CheW-like
+69255	sf	b.40.8	-	gp5 N-terminal domain-like
+82093	sf	b.40.9	-	Heme chaperone CcmE
+101756	sf	b.40.10	-	Hypothetical protein YgiW
+141318	sf	b.40.11	-	TM0957-like
+141322	sf	b.40.12	-	NfeD domain-like
+159121	sf	b.40.13	-	BC4932-like
+159127	sf	b.40.14	-	HupF/HypC-like
+159133	sf	b.40.15	-	EutN/CcmL-like
+159141	sf	b.40.16	-	HIN-2000 domain-like
+345919	sf	b.40.17	-	Proteasome regulatory subunits PAN/Rpt, OB-fold domain
+50346	sf	b.41.1	-	PRC-barrel domain
+50353	sf	b.42.1	-	Cytokine
+50370	sf	b.42.2	-	Ricin B-like lectins
+50382	sf	b.42.3	-	Agglutinin
+50386	sf	b.42.4	-	STI-like
+50405	sf	b.42.5	-	Actin-crosslinking proteins
+82109	sf	b.42.6	-	MIR domain
+110217	sf	b.42.7	-	DNA-binding protein LAG-1 (CSL)
+110221	sf	b.42.8	-	AbfB domain
+50443	sf	b.43.2	-	FucI/AraA C-terminal domain-like
+50447	sf	b.43.3	-	Translation proteins
+63380	sf	b.43.4	-	Riboflavin synthase domain-like
+82114	sf	b.43.5	-	Riboflavin kinase-like
+50465	sf	b.44.1	-	EF-Tu/eEF-1alpha/eIF2-gamma C-terminal domain
+101790	sf	b.44.2	-	Aminomethyltransferase beta-barrel domain
+50475	sf	b.45.1	-	FMN-binding split barrel
+141371	sf	b.45.2	-	PilZ domain-like
+159173	sf	b.45.3	-	YkvR-like
+50486	sf	b.46.1	-	FMT C-terminal domain-like
+50494	sf	b.47.1	-	Trypsin-like serine proteases
+50610	sf	b.48.1	-	mu transposase, C-terminal domain
+50615	sf	b.49.1	-	N-terminal domain of alpha and beta (or A/B) subunits of rotary ATPases
+50621	sf	b.49.2	-	Alanine racemase C-terminal domain-like
+101821	sf	b.49.3	-	Aminopeptidase/glucanase lid domain
+345920	sf	b.49.4	-	Upf1 barrel domain-like
+50630	sf	b.50.1	-	Acid proteases
+50677	sf	b.51.1	-	ValRS/IleRS/LeuRS editing domain
+50685	sf	b.52.1	-	Barwin-like endoglucanases
+50692	sf	b.52.2	-	ADC-like
+50715	sf	b.53.1	-	Ribosomal protein L25-like
+50723	sf	b.54.1	-	Core binding factor beta, CBF
+50729	sf	b.55.1	-	PH domain-like
+141447	sf	b.55.2	-	PA2021-like
+345921	sf	b.55.3	-	Pleckstrin-like receptor for ubiquitin (Pru) domain
+50784	sf	b.56.1	-	Transcription factor IIA (TFIIA), beta-barrel domain
+50789	sf	b.57.1	-	Herpes virus serine proteinase, assemblin
+50800	sf	b.58.1	-	PK beta-barrel domain-like
+50809	sf	b.59.1	-	XRCC4, N-terminal domain
+50814	sf	b.60.1	-	Lipocalins
+50876	sf	b.61.1	-	Avidin/streptavidin
+50882	sf	b.61.2	-	beta-Barrel protease inhibitors
+50886	sf	b.61.3	-	D-aminopeptidase, middle and C-terminal domains
+69298	sf	b.61.4	-	Quinohemoprotein amine dehydrogenase A chain, domain 3
+75001	sf	b.61.5	-	Dipeptidyl peptidase I (cathepsin C), exclusion domain
+101874	sf	b.61.6	-	YceI-like
+141480	sf	b.61.7	-	Extracellular hemoglobin linker subunit, receptor domain
+141488	sf	b.61.8	-	YdhA-like
+50891	sf	b.62.1	-	Cyclophilin-like
+50904	sf	b.63.1	-	Oncogene products
+50911	sf	b.64.1	-	Mannose 6-phosphate receptor domain
+50916	sf	b.65.1	-	Rap30/74 interaction domain-like
+50923	sf	b.66.1	-	Hemopexin-like domain
+50934	sf	b.67.1	-	Tachylectin-2
+75005	sf	b.67.2	-	Arabinanase/levansucrase/invertase
+101887	sf	b.67.3	-	Apyrase
+418768	sf	b.67.4	-	Olfactomedin (OLF)-like
+50939	sf	b.68.1	-	Sialidases
+50952	sf	b.68.2	-	Soluble quinoprotein glucose dehydrogenase
+50956	sf	b.68.3	-	Thermostable phytase (3-phytase)
+50960	sf	b.68.4	-	TolB, C-terminal domain
+63825	sf	b.68.5	-	YWTD domain
+63829	sf	b.68.6	-	Calcium-dependent phosphotriesterase
+69304	sf	b.68.7	-	Tricorn protease N-terminal domain
+89372	sf	b.68.8	-	Fucose-specific lectin
+101898	sf	b.68.9	-	NHL repeat
+101904	sf	b.68.10	-	GyrA/ParC C-terminal domain-like
+117281	sf	b.68.11	-	Kelch motif
+50965	sf	b.69.1	-	Galactose oxidase, central domain
+50969	sf	b.69.2	-	YVTN repeat-like/Quinoprotein amine dehydrogenase
+50974	sf	b.69.3	-	Nitrous oxide reductase, N-terminal domain
+50978	sf	b.69.4	-	WD40 repeat-like
+50985	sf	b.69.5	-	RCC1/BLIP-II
+50989	sf	b.69.6	-	Clathrin heavy-chain terminal domain
+50993	sf	b.69.7	-	Peptidase/esterase 'gauge' domain
+69318	sf	b.69.8	-	Integrin alpha N-terminal domain
+69322	sf	b.69.9	-	Tricorn protease domain 2
+75011	sf	b.69.10	-	3-carboxy-cis,cis-mucoante lactonizing enzyme
+101908	sf	b.69.11	-	Putative isomerase YbhE
+101912	sf	b.69.12	-	Sema domain
+110296	sf	b.69.13	-	Oligoxyloglucan reducing end-specific cellobiohydrolase
+117289	sf	b.69.14	-	Nucleoporin domain
+310595	sf	b.69.15	-	Retinal pigment epithelial membrane protein-like
+50998	sf	b.70.1	-	Quinoprotein alcohol dehydrogenase-like
+51004	sf	b.70.2	-	C-terminal (heme d1) domain of cytochrome cd1-nitrite reductase
+82171	sf	b.70.3	-	DPP6 N-terminal domain-like
+51011	sf	b.71.1	-	Glycosyl hydrolase domain
+51045	sf	b.72.1	-	WW domain
+51055	sf	b.72.2	-	Carbohydrate binding domain
+101931	sf	b.72.3	-	Pym (Within the bgcn gene intron protein, WIBG), N-terminal domain
+51064	sf	b.73.1	-	Head domain of nucleotide exchange factor GrpE
+51069	sf	b.74.1	-	Carbonic anhydrase
+51081	sf	b.75.1	-	Bacteriochlorophyll A protein
+51087	sf	b.76.1	-	Outer surface protein
+82185	sf	b.76.2	-	Histone H3 K4-specific methyltransferase SET7/9 N-terminal domain
+51092	sf	b.77.1	-	Vitelline membrane outer protein-I (VMO-I)
+51096	sf	b.77.2	-	delta-Endotoxin (insectocide), middle domain
+51101	sf	b.77.3	-	Mannose-binding lectins
+418763	sf	b.77.4	-	MACPF C-terminal prism-like
+51110	sf	b.78.1	-	alpha-D-mannose-specific plant lectins
+51126	sf	b.80.1	-	Pectin lyase-like
+51156	sf	b.80.2	-	Insect cysteine-rich antifreeze protein
+63848	sf	b.80.3	-	Cell-division inhibitor MinC, C-terminal domain
+69336	sf	b.80.4	-	Alpha subunit of glutamate synthase, C-terminal domain
+69340	sf	b.80.5	-	C-terminal domain of adenylylcyclase associated protein
+101960	sf	b.80.6	-	Stabilizer of iron transporter SufD
+51120	sf	b.80.7	-	beta-Roll
+141571	sf	b.80.8	-	Pentapeptide repeat-like
+51161	sf	b.81.1	-	Trimeric LpxA-like enzymes
+51177	sf	b.81.2	-	An insect antifreeze protein
+101967	sf	b.81.3	-	Adhesin YadA, collagen-binding domain
+159283	sf	b.81.4	-	Guanosine diphospho-D-mannose pyrophosphorylase/mannose-6-phosphate isomerase linker domain
+51182	sf	b.82.1	-	RmlC-like cupins
+51197	sf	b.82.2	-	Clavaminate synthase-like
+51206	sf	b.82.3	-	cAMP-binding domain-like
+51215	sf	b.82.4	-	Regulatory protein AraC
+51219	sf	b.82.5	-	TRAP-like
+63862	sf	b.82.6	-	Thiamin pyrophosphokinase, substrate-binding domain
+81653	sf	b.82.7	-	Metal cation-transporting ATPase, actuator domain A
+51225	sf	b.83.1	-	Fibre shaft of virus attachment proteins
+51230	sf	b.84.1	-	Single hybrid motif
+51246	sf	b.84.2	-	Rudiment single hybrid motif
+51261	sf	b.84.3	-	Duplicated hybrid motif
+110324	sf	b.84.4	-	Ribosomal L27 protein-like
+310577	sf	b.84.5	-	V1 ATP synthase A subunit, bulge domain-like
+51269	sf	b.85.1	-	AFP III-like domain
+51274	sf	b.85.2	-	Head decoration protein D (gpD, major capsid protein D)
+51278	sf	b.85.3	-	Urease, beta-subunit
+51283	sf	b.85.4	-	dUTPase-like
+51289	sf	b.85.5	-	Tlp20, baculovirus telokin-like protein
+63867	sf	b.85.6	-	MoeA C-terminal domain-like
+82199	sf	b.85.7	-	SET domain
+51294	sf	b.86.1	-	Hedgehog/intein (Hint) domain
+51306	sf	b.87.1	-	LexA/Signal peptidase
+51316	sf	b.88.1	-	Mss4-like
+254142	sf	b.88.2	-	RIG-I C-terminal-like
+51322	sf	b.89.1	-	Cyanovirin-N
+51327	sf	b.90.1	-	Head-binding domain of phage P22 tailspike protein
+51332	sf	b.91.1	-	E2 regulatory, transactivation domain
+51338	sf	b.92.1	-	Composite domain of metallo-dependent hydrolases
+51344	sf	b.93.1	-	Epsilon subunit of F1F0-ATP synthase N-terminal domain
+63697	sf	b.94.1	-	Olfactory marker protein
+63707	sf	b.95.1	-	Ganglioside M2 (gm2) activator
+63712	sf	b.96.1	-	Nicotinic receptor ligand binding domain-like
+63724	sf	b.97.1	-	Cytolysin/lectin
+63737	sf	b.98.1	-	Zn aminopeptidase N-terminal domain
+63817	sf	b.100.1	-	Sortase
+63840	sf	b.101.1	-	Ribonuclease domain of colicin E3
+63877	sf	b.102.1	-	Methuselah ectodomain
+63882	sf	b.103.1	-	MoeA N-terminal region -like
+63887	sf	b.104.1	-	P-domain of calnexin/calreticulin
+69189	sf	b.105.1	-	Penicillin-binding protein associated domain
+69279	sf	b.106.1	-	Phage tail proteins
+69287	sf	b.107.1	-	Urease metallochaperone UreE, N-terminal domain
+69349	sf	b.108.1	-	Phage fibre proteins
+69360	sf	b.109.1	-	Cell wall binding repeat
+69369	sf	b.110.1	-	Cloacin translocation domain
+74982	sf	b.111.1	-	Small protein B (SmpB)
+418759	sf	b.111.2	-	Oligonucleotide-binding domain from CRISPR-associated protein Cas12a / Cpf1-like
+81277	sf	b.112.1	-	C-terminal domain of mollusc hemocyanin
+81624	sf	b.113.1	-	N-terminal domain of MutM-like DNA repair proteins
+82004	sf	b.114.1	-	N-utilization substance G protein NusG, insert domain
+82026	sf	b.115.1	-	Calcium-mediated lectin
+82046	sf	b.116.1	-	Viral chemokine binding protein m3
+82051	sf	b.117.1	-	Obg GTP-binding protein N-terminal domain
+82153	sf	b.118.1	-	FAS1 domain
+82215	sf	b.119.1	-	C-terminal autoproteolytic domain of nucleoporin nup98
+82220	sf	b.120.1	-	Tp47 lipoprotein, N-terminal domain
+49742	sf	b.121.1	-	PHM/PNGase F
+49749	sf	b.121.2	-	Group II dsDNA viruses VP
+69203	sf	b.121.3	-	Nucleoplasmin-like core domain
+88633	sf	b.121.4	-	Positive stranded ssRNA viruses
+88645	sf	b.121.5	-	ssDNA viruses
+88648	sf	b.121.6	-	Group I dsDNA viruses
+88650	sf	b.121.7	-	Satellite viruses
+88697	sf	b.122.1	-	PUA domain-like
+89232	sf	b.123.1	-	Hypothetical protein TM1070
+89360	sf	b.124.1	-	HesB-like domain
+89392	sf	b.125.1	-	Prokaryotic lipoproteins and lipoprotein localization factors
+89428	sf	b.126.1	-	Adsorption protein p2
+89433	sf	b.127.1	-	Baseplate structural protein gp8
+89442	sf	b.128.1	-	Hypothetical protein YojF
+89447	sf	b.129.1	-	AbrB/MazE/MraZ-like
+141694	sf	b.129.2	-	AF2212/PG0164-like
+100920	sf	b.130.1	-	Heat shock protein 70kD (HSP70), peptide-binding domain
+100939	sf	b.131.1	-	SPOC domain-like
+101576	sf	b.132.1	-	Supernatant protein factor (SPF), C-terminal domain
+101596	sf	b.133.1	-	Dextranase, N-terminal domain
+101601	sf	b.134.1	-	Smp-1-like
+101606	sf	b.135.1	-	Superantigen (mitogen) Ypm
+101738	sf	b.136.1	-	SspB-like
+101744	sf	b.137.1	-	Rof/RNase P subunit-like
+101751	sf	b.138.1	-	Hydrophobin II, HfbII
+101801	sf	b.139.1	-	Surface presentation of antigens (SPOA)
+101816	sf	b.140.1	-	Replicase NSP9
+101852	sf	b.141.1	-	Bacterial fluorinating enzyme, C-terminal domain
+101936	sf	b.142.1	-	DNA-binding pseudobarrel domain
+101941	sf	b.143.1	-	NAC domain
+101999	sf	b.144.1	-	Trimeric adhesin
+102031	sf	b.145.1	-	AXH domain
+110111	sf	b.146.1	-	Ctag/Cox11
+110132	sf	b.147.1	-	BTV NS2-like ssRNA-binding domain
+110304	sf	b.148.1	-	Coronavirus RNA-binding domain
+117100	sf	b.149.1	-	Beta-galactosidase LacA, domain 3
+117125	sf	b.150.1	-	Glycolsyl hydrolase family 31 C-terminal domain
+117130	sf	b.151.1	-	CsrA-like
+117143	sf	b.152.1	-	Flagellar hook protein flgE
+56037	sf	b.153.1	-	PheT/TilS domain
+141086	sf	b.154.1	-	Agglutinin HPA-like
+141091	sf	b.155.1	-	L21p-like
+141099	sf	b.156.1	-	Atu1913-like
+141452	sf	b.157.1	-	Hcp1-like
+141457	sf	b.158.1	-	BH3618-like
+141493	sf	b.159.1	-	Allene oxide cyclase-like
+159238	sf	b.159.2	-	SO1590-like
+141523	sf	b.160.1	-	L,D-transpeptidase catalytic domain-like
+141530	sf	b.161.1	-	PTSIIA/GutA-like
+141562	sf	b.162.1	-	At5g01610-like
+141658	sf	b.163.1	-	Bacteriophage trimeric proteins domain
+141666	sf	b.164.1	-	'SARS ORF9b-like
+141673	sf	b.165.1	-	MOSC N-terminal domain-like
+141678	sf	b.166.1	-	MAL13P1.257-like
+141729	sf	b.167.1	-	FimD N-terminal domain-like
+141734	sf	b.168.1	-	HisI-like
+141739	sf	b.169.1	-	MFPT repeat-like
+158974	sf	b.170.1	-	WSSV envelope protein-like
+158997	sf	b.171.1	-	Trm112p-like
+159006	sf	b.172.1	-	YopX-like
+159203	sf	b.173.1	-	NifT/FixU-like
+159222	sf	b.174.1	-	YopT-like
+159234	sf	b.175.1	-	FomD-like
+159245	sf	b.176.1	-	AttH-like
+159270	sf	b.177.1	-	YmcC-like
+159275	sf	b.178.1	-	PA1994-like
+254123	sf	b.179.1	-	PA14-like
+254145	sf	b.180.1	-	LAMP conserved domain-like
+310592	sf	b.181.1	-	Handle domain of Transferrin binding protein TbpB-like
+345922	sf	b.182.1	-	U5 small nuclear riboprotein particle assembly factor Aar2 N-terminal domain-like
+418736	sf	b.183.1	-	Perfringolysin C-terminal-like
+418766	sf	b.184.1	-	P2X receptor body domain-like
+51351	sf	c.1.1	-	Triosephosphate isomerase (TIM)
+51366	sf	c.1.2	-	Ribulose-phoshate binding barrel
+51391	sf	c.1.3	-	Thiamin phosphate synthase
+51395	sf	c.1.4	-	FMN-linked oxidoreductases
+51412	sf	c.1.5	-	Inosine monophosphate dehydrogenase (IMPDH)
+51419	sf	c.1.6	-	PLP-binding barrel
+51430	sf	c.1.7	-	NAD(P)-linked oxidoreductase
+51445	sf	c.1.8	-	(Trans)glycosidases
+51556	sf	c.1.9	-	Metallo-dependent hydrolases
+51569	sf	c.1.10	-	Aldolase
+51604	sf	c.1.11	-	Enolase C-terminal domain-like
+51621	sf	c.1.12	-	Phosphoenolpyruvate/pyruvate domain
+51645	sf	c.1.13	-	Malate synthase G
+51649	sf	c.1.14	-	RuBisCo, C-terminal domain
+51658	sf	c.1.15	-	Xylose isomerase-like
+51679	sf	c.1.16	-	Bacterial luciferase-like
+51690	sf	c.1.17	-	Nicotinate/Quinolinate PRTase C-terminal domain-like
+51695	sf	c.1.18	-	PLC-like phosphodiesterases
+51703	sf	c.1.19	-	Cobalamin (vitamin B12)-dependent enzymes
+51713	sf	c.1.20	-	tRNA-guanine transglycosylase
+51717	sf	c.1.21	-	Dihydropteroate synthetase-like
+51726	sf	c.1.22	-	UROD/MetE-like
+51730	sf	c.1.23	-	FAD-linked oxidoreductase
+63892	sf	c.1.24	-	Pyridoxine 5'-phosphate synthase
+75098	sf	c.1.25	-	Monomethylamine methyltransferase MtmB
+82282	sf	c.1.26	-	Homocysteine S-methyltransferase
+102110	sf	c.1.27	-	(2r)-phospho-3-sulfolactate synthase ComA
+102114	sf	c.1.28	-	Radical SAM enzymes
+110391	sf	c.1.29	-	GlpP-like
+110395	sf	c.1.30	-	CutC-like
+110399	sf	c.1.31	-	ThiG-like
+117396	sf	c.1.32	-	TM1631-like
+141868	sf	c.1.33	-	EAL domain-like
+418754	sf	c.1.34	-	Glycosyl hydrolase family 99
+51735	sf	c.2.1	-	NAD(P)-binding Rossmann-fold domains
+51905	sf	c.3.1	-	FAD/NAD(P)-binding domain
+51971	sf	c.4.1	-	Nucleotide-binding domain
+51984	sf	c.5.1	-	MurCD N-terminal domain
+51989	sf	c.6.1	-	Glycosyl hydrolases family 6, cellulases
+88713	sf	c.6.2	-	Glycoside hydrolase/deacetylase
+89550	sf	c.6.3	-	PHP domain-like
+51998	sf	c.7.1	-	PFL-like glycyl radical enzymes
+52009	sf	c.8.1	-	Phosphohistidine domain
+52016	sf	c.8.2	-	LeuD/IlvD-like
+52021	sf	c.8.3	-	Carbamoyl phosphate synthetase, small subunit N-terminal domain
+52025	sf	c.8.4	-	PA domain
+52029	sf	c.8.5	-	GroEL apical domain-like
+82317	sf	c.8.6	-	Swiveling domain of dehydratase reactivase alpha subunit
+89562	sf	c.8.7	-	RraA-like
+102198	sf	c.8.8	-	Putative cyclase
+117457	sf	c.8.9	-	FumA C-terminal domain-like
+141986	sf	c.8.10	-	LD-carboxypeptidase A C-terminal domain-like
+52038	sf	c.9.1	-	Barstar-related
+52042	sf	c.9.2	-	Ribosomal protein L32e
+52047	sf	c.10.1	-	RNI-like
+52058	sf	c.10.2	-	L domain-like
+52075	sf	c.10.3	-	Outer arm dynein light chain 1
+52080	sf	c.12.1	-	Ribosomal proteins L15p and L18e
+52087	sf	c.13.1	-	CRAL/TRIO domain
+52091	sf	c.13.2	-	SpoIIaa-like
+52096	sf	c.14.1	-	ClpP/crotonase
+52113	sf	c.15.1	-	BRCT domain
+52121	sf	c.16.1	-	Lumazine synthase
+52129	sf	c.17.1	-	Caspase-like
+52141	sf	c.18.1	-	Uracil-DNA glycosylase-like
+52151	sf	c.19.1	-	FabD/lysophospholipase-like
+52156	sf	c.20.1	-	Initiation factor IF2/eIF5b, domain 3
+52161	sf	c.21.1	-	Ribosomal protein L13
+52166	sf	c.22.1	-	Ribosomal protein L4
+52172	sf	c.23.1	-	CheY-like
+52200	sf	c.23.2	-	Toll/Interleukin receptor TIR domain
+52206	sf	c.23.3	-	Hypothetical protein MTH538
+52210	sf	c.23.4	-	Succinyl-CoA synthetase domains
+52218	sf	c.23.5	-	Flavoproteins
+52242	sf	c.23.6	-	Cobalamin (vitamin B12)-binding domain
+52255	sf	c.23.8	-	N5-CAIR mutase (phosphoribosylaminoimidazole carboxylase, PurE)
+52266	sf	c.23.10	-	SGNH hydrolase
+52279	sf	c.23.11	-	Beta-D-glucan exohydrolase, C-terminal domain-like
+52283	sf	c.23.12	-	Formate/glycerate dehydrogenase catalytic domain-like
+52304	sf	c.23.13	-	Type II 3-dehydroquinate dehydratase
+52309	sf	c.23.14	-	N-(deoxy)ribosyltransferase-like
+52313	sf	c.23.15	-	Ribosomal protein S2
+52317	sf	c.23.16	-	Class I glutamine amidotransferase-like
+63965	sf	c.23.17	-	Precorrin-8X methylmutase CbiC/CobH
+52335	sf	c.24.1	-	Methylglyoxal synthase-like
+52343	sf	c.25.1	-	Ferredoxin reductase-like, C-terminal NADP-linked domain
+52374	sf	c.26.1	-	Nucleotidylyl transferase
+52402	sf	c.26.2	-	Adenine nucleotide alpha hydrolases-like
+52413	sf	c.26.3	-	UDP-glucose/GDP-mannose dehydrogenase C-terminal domain
+52418	sf	c.27.1	-	Nucleoside phosphorylase/phosphoribosyltransferase catalytic domain
+52425	sf	c.28.1	-	Cryptochrome/photolyase, N-terminal domain
+52440	sf	c.30.1	-	PreATP-grasp domain
+52467	sf	c.31.1	-	DHS-like NAD/FAD-binding domain
+52490	sf	c.32.1	-	Tubulin nucleotide-binding domain-like
+52499	sf	c.33.1	-	Isochorismatase-like hydrolases
+52507	sf	c.34.1	-	Homo-oligomeric flavin-containing Cys decarboxylases, HFCD
+52518	sf	c.36.1	-	Thiamin diphosphate-binding fold (THDP-binding)
+52540	sf	c.37.1	-	P-loop containing nucleoside triphosphate hydrolases
+52728	sf	c.38.1	-	PTS IIb component
+52733	sf	c.39.1	-	Nicotinate mononucleotide:5,6-dimethylbenzimidazole phosphoribosyltransferase (CobT)
+52738	sf	c.40.1	-	Methylesterase CheB, C-terminal domain
+52743	sf	c.41.1	-	Subtilisin-like
+52768	sf	c.42.1	-	Arginase/deacetylase
+52777	sf	c.43.1	-	CoA-dependent acyltransferases
+52788	sf	c.44.1	-	Phosphotyrosine protein phosphatases I
+52794	sf	c.44.2	-	PTS system IIB component-like
+310581	sf	c.44.3	-	PIWI domain N-terminal-like
+52799	sf	c.45.1	-	(Phosphotyrosine protein) phosphatases II
+52821	sf	c.46.1	-	Rhodanese/Cell cycle control phosphatase
+52833	sf	c.47.1	-	Thioredoxin-like
+52913	sf	c.47.2	-	RNA 3'-terminal phosphate cyclase, RPTC, insert domain
+52922	sf	c.48.1	-	TK C-terminal domain-like
+52935	sf	c.49.1	-	PK C-terminal domain-like
+52943	sf	c.49.2	-	ATP synthase (F1-ATPase), gamma subunit
+52949	sf	c.50.1	-	Macro domain-like
+52954	sf	c.51.1	-	Class II aaRS ABD-related
+52964	sf	c.51.2	-	TolB, N-terminal domain
+52968	sf	c.51.3	-	B12-dependent dehydatase associated subunit
+52972	sf	c.51.4	-	ITPase-like
+142433	sf	c.51.5	-	CinA-like
+159594	sf	c.51.6	-	XCC0632-like
+52980	sf	c.52.1	-	Restriction endonuclease-like
+53032	sf	c.52.2	-	tRNA-intron endonuclease catalytic domain-like
+53036	sf	c.52.3	-	Eukaryotic RPB5 N-terminal domain
+159612	sf	c.52.4	-	TBP-interacting protein-like
+53041	sf	c.53.1	-	Resolvase-like
+53056	sf	c.53.2	-	beta-carbonic anhydrase, cab
+53062	sf	c.54.1	-	PTS system fructose IIA component-like
+53067	sf	c.55.1	-	Actin-like ATPase domain
+53092	sf	c.55.2	-	Creatinase/prolidase N-terminal domain
+53098	sf	c.55.3	-	Ribonuclease H-like
+53137	sf	c.55.4	-	Translational machinery components
+53146	sf	c.55.5	-	Nitrogenase accessory factor-like
+53150	sf	c.55.6	-	DNA repair protein MutS, domain II
+53155	sf	c.55.7	-	Methylated DNA-protein cysteine methyltransferase domain
+53163	sf	c.56.1	-	HybD-like
+53167	sf	c.56.2	-	Purine and uridine phosphorylases
+53178	sf	c.56.3	-	Peptidyl-tRNA hydrolase-like
+53182	sf	c.56.4	-	Pyrrolidone carboxyl peptidase (pyroglutamate aminopeptidase)
+53187	sf	c.56.5	-	Zn-dependent exopeptidases
+53213	sf	c.56.6	-	LigB-like
+142535	sf	c.56.7	-	AF0625-like
+159659	sf	c.56.8	-	Cgl1923-like
+53218	sf	c.57.1	-	Molybdenum cofactor biosynthesis proteins
+53223	sf	c.58.1	-	Aminoacid dehydrogenase-like, N-terminal domain
+53244	sf	c.59.1	-	MurD-like peptide ligases, peptide-binding domain
+53254	sf	c.60.1	-	Phosphoglycerate mutase-like
+53271	sf	c.61.1	-	PRTase-like
+53300	sf	c.62.1	-	vWA-like
+53323	sf	c.64.1	-	Pyruvate-ferredoxin oxidoreductase, PFOR, domain III
+53328	sf	c.65.1	-	Formyltransferase
+53335	sf	c.66.1	-	S-adenosyl-L-methionine-dependent methyltransferases
+53383	sf	c.67.1	-	PLP-dependent transferases
+159709	sf	c.67.2	-	PhnH-like
+159713	sf	c.67.3	-	Dhaf3308-like
+53448	sf	c.68.1	-	Nucleotide-diphospho-sugar transferases
+53474	sf	c.69.1	-	alpha/beta-Hydrolases
+53590	sf	c.70.1	-	Nucleoside hydrolase
+53597	sf	c.71.1	-	Dihydrofolate reductase-like
+53613	sf	c.72.1	-	Ribokinase-like
+53623	sf	c.72.2	-	MurD-like peptide ligases, catalytic domain
+102645	sf	c.72.3	-	CoaB-like
+53633	sf	c.73.1	-	Carbamate kinase-like
+53639	sf	c.74.1	-	AraD/HMP-PK domain-like
+53649	sf	c.76.1	-	Alkaline phosphatase-like
+53659	sf	c.77.1	-	Isocitrate/Isopropylmalate dehydrogenase-like
+53671	sf	c.78.1	-	Aspartate/ornithine carbamoyltransferase
+53681	sf	c.78.2	-	Aspartate/glutamate racemase
+53686	sf	c.79.1	-	Tryptophan synthase beta subunit-like PLP-dependent enzymes
+53697	sf	c.80.1	-	SIS domain
+53706	sf	c.81.1	-	Formate dehydrogenase/DMSO reductase, domains 1-3
+53720	sf	c.82.1	-	ALDH-like
+53732	sf	c.83.1	-	Aconitase iron-sulfur domain
+53738	sf	c.84.1	-	Phosphoglucomutase, first 3 domains
+53743	sf	c.85.1	-	FucI/AraA N-terminal and middle domains
+53748	sf	c.86.1	-	Phosphoglycerate kinase
+53756	sf	c.87.1	-	UDP-Glycosyltransferase/glycogen phosphorylase
+53774	sf	c.88.1	-	Glutaminase/Asparaginase
+53784	sf	c.89.1	-	Phosphofructokinase
+53790	sf	c.90.1	-	Tetrapyrrole methylase
+53795	sf	c.91.1	-	PEP carboxykinase-like
+53800	sf	c.92.1	-	Chelatase
+53807	sf	c.92.2	-	'Helical backbone' metal receptor
+159800	sf	c.92.3	-	PrpR receptor domain-like
+53822	sf	c.93.1	-	Periplasmic binding protein-like I
+53850	sf	c.94.1	-	Periplasmic binding protein-like II
+53901	sf	c.95.1	-	Thiolase-like
+53920	sf	c.96.1	-	Fe-only hydrogenase
+53927	sf	c.97.1	-	Cytidine deaminase-like
+102712	sf	c.97.3	-	JAB1/MPN domain
+63418	sf	c.98.1	-	MurE/MurF N-terminal domain
+75138	sf	c.98.2	-	HprK N-terminal domain-like
+63992	sf	c.99.1	-	Dipeptide transport protein
+63999	sf	c.100.1	-	Thiamin pyrophosphokinase, catalytic domain
+64005	sf	c.101.1	-	Undecaprenyl diphosphate synthase
+64043	sf	c.102.1	-	Cell-division inhibitor MinC, N-terminal domain
+64076	sf	c.103.1	-	MTH938-like
+64153	sf	c.104.1	-	YjeF N-terminal domain-like
+64158	sf	c.105.1	-	2,3-Bisphosphoglycerate-independent phosphoglycerate mutase, substrate-binding domain
+64167	sf	c.106.1	-	SurE-like
+64182	sf	c.107.1	-	DHH phosphoesterases
+56784	sf	c.108.1	-	HAD-like
+68923	sf	c.109.1	-	PEP carboxykinase N-terminal domain
+69500	sf	c.110.1	-	DTD-like
+69572	sf	c.111.1	-	Activating enzymes of the ubiquitin-like proteins
+69593	sf	c.112.1	-	Glycerol-3-phosphate (1)-acyltransferase
+69618	sf	c.113.1	-	HemD-like
+75169	sf	c.114.1	-	DsrEFH-like
+75181	sf	c.115.1	-	Hypothetical protein MTH777 (MT0777)
+75217	sf	c.116.1	-	alpha/beta knot
+75304	sf	c.117.1	-	Amidase signature (AS) enzymes
+82544	sf	c.118.1	-	GckA/TtuD-like
+82549	sf	c.119.1	-	DAK1/DegV-like
+88723	sf	c.120.1	-	PIN domain-like
+89623	sf	c.121.1	-	Ribose/Galactose isomerase RpiB/AlsB
+89733	sf	c.122.1	-	L-sulfolactate dehydrogenase-like
+89796	sf	c.123.1	-	CoA-transferase family III (CaiB/BaiF)
+100950	sf	c.124.1	-	NagB/RpiA/CoA transferase-like
+102215	sf	c.125.1	-	Creatininase
+102220	sf	c.126.1	-	DNA polymerase III psi subunit
+102324	sf	c.127.1	-	F420-dependent methylenetetrahydromethanopterin dehydrogenase (MTD)
+102400	sf	c.128.1	-	DNA polymerase III chi subunit
+102405	sf	c.129.1	-	MCP/YpsA-like
+102414	sf	c.130.1	-	Alpha-2,3/8-sialyltransferase CstII
+102462	sf	c.131.1	-	Peptidyl-tRNA hydrolase II
+102522	sf	c.132.1	-	Bacterial fluorinating enzyme, N-terminal domain
+102546	sf	c.133.1	-	RbsD-like
+102588	sf	c.134.1	-	LmbE-like
+102705	sf	c.135.1	-	NIF3 (NGG1p interacting factor 3)-like
+110455	sf	c.136.1	-	Toprim domain
+110581	sf	c.138.1	-	Indigoidine synthase A-like
+110710	sf	c.140.1	-	TTHA0583/YokD-like
+110738	sf	c.141.1	-	Glycerate kinase I
+142019	sf	c.142.1	-	Nqo1 FMN-binding domain-like
+142338	sf	c.143.1	-	CofD-like
+142695	sf	c.144.1	-	RibA-like
+142754	sf	c.145.1	-	NadA-like
+142764	sf	c.146.1	-	YgbK-like
+142795	sf	c.147.1	-	CAC2185-like
+142823	sf	c.148.1	-	ComB-like
+159468	sf	c.149.1	-	AtpF-like
+159501	sf	c.150.1	-	EreA/ChaN-like
+159664	sf	c.151.1	-	CobE/GbiG C-terminal domain-like
+159672	sf	c.152.1	-	CbiG N-terminal domain-like
+159774	sf	c.153.1	-	YerB-like
+159779	sf	c.154.1	-	CdCA1 repeat-like
+254137	sf	c.155.1	-	LytB-like
+53933	sf	d.1.1	-	Microbial ribonucleases
+53955	sf	d.2.1	-	Lysozyme-like
+54001	sf	d.3.1	-	Cysteine proteinases
+54060	sf	d.4.1	-	His-Me finger endonucleases
+54076	sf	d.5.1	-	RNase A-like
+54098	sf	d.6.1	-	Prion-like
+54106	sf	d.7.1	-	LysM domain
+54111	sf	d.8.1	-	Urease, gamma-subunit
+54117	sf	d.9.1	-	Interleukin 8-like chemokines
+142887	sf	d.9.2	-	PhtA domain-like
+54171	sf	d.10.1	-	DNA-binding domain
+54184	sf	d.11.1	-	Penicillin-binding protein 2x (pbp-2x), c-terminal domain
+54189	sf	d.12.1	-	Ribosomal proteins S24e, L23 and L15e
+54197	sf	d.13.1	-	HIT-like
+75347	sf	d.13.2	-	Rotavirus NSP2 fragment, C-terminal domain
+54211	sf	d.14.1	-	Ribosomal protein S5 domain 2-like
+54236	sf	d.15.1	-	Ubiquitin-like
+54277	sf	d.15.2	-	CAD & PB1 domains
+54285	sf	d.15.3	-	MoaD/ThiS
+54292	sf	d.15.4	-	2Fe-2S ferredoxin-like
+54328	sf	d.15.5	-	Staphylokinase/streptokinase
+54334	sf	d.15.6	-	Superantigen toxins, C-terminal domain
+54358	sf	d.15.7	-	Immunoglobulin-binding domains
+54364	sf	d.15.8	-	Translation initiation factor IF3, N-terminal domain
+54368	sf	d.15.9	-	Glutamine synthetase, N-terminal domain
+81271	sf	d.15.10	-	TGS-like
+89837	sf	d.15.11	-	Doublecortin (DC)
+110814	sf	d.15.12	-	TmoB-like
+142984	sf	d.15.13	-	Nqo1 middle domain-like
+159936	sf	d.15.14	-	NSP3A-like
+418745	sf	d.15.15	-	Phosphoinositide 3-kinase alpha adaptor-binding domain (ABD)-like
+54373	sf	d.16.1	-	FAD-linked reductases, C-terminal domain
+54403	sf	d.17.1	-	Cystatin/monellin
+54416	sf	d.17.2	-	Amine oxidase N-terminal region
+54423	sf	d.17.3	-	DsbC/DsbG N-terminal domain-like
+54427	sf	d.17.4	-	NTF2-like
+54441	sf	d.17.5	-	Uracil-DNA glycosylase inhibitor protein
+88802	sf	d.17.6	-	Pre-PUA domain
+102816	sf	d.17.7	-	Putative dsDNA mimic
+54447	sf	d.18.1	-	ssDNA-binding transcriptional regulator domain
+54452	sf	d.19.1	-	MHC antigen-recognition domain
+54495	sf	d.20.1	-	UBC-like
+54506	sf	d.21.1	-	Diaminopimelate epimerase-like
+54511	sf	d.22.1	-	GFP-like
+54518	sf	d.23.1	-	Tubby C-terminal domain-like
+54523	sf	d.24.1	-	Pili subunits
+54529	sf	d.25.1	-	Mitochondrial glycoprotein MAM33-like
+54534	sf	d.26.1	-	FKBP-like
+54552	sf	d.26.2	-	Colicin E3 immunity protein
+54556	sf	d.26.3	-	Chitinase insertion domain
+54565	sf	d.27.1	-	Ribosomal protein S16
+54570	sf	d.28.1	-	Ribosomal protein S19
+54575	sf	d.29.1	-	Ribosomal protein L31e
+54580	sf	d.30.1	-	Allophycocyanin linker chain (domain)
+54585	sf	d.31.1	-	Cdc48 domain 2-like
+54593	sf	d.32.1	-	Glyoxalase/Bleomycin resistance protein/Dihydroxybiphenyl dioxygenase
+54611	sf	d.33.1	-	SecB-like
+54616	sf	d.34.1	-	DNA-binding domain of Mlu1-box binding protein MBP1
+54621	sf	d.35.1	-	Heme-binding protein A (HasA)
+54626	sf	d.36.1	-	Chalcone isomerase
+54631	sf	d.37.1	-	CBS-domain pair
+54637	sf	d.38.1	-	Thioesterase/thiol ester dehydrase-isomerase
+54648	sf	d.39.1	-	DLC
+54654	sf	d.40.1	-	CI-2 family of serine protease inhibitors
+54665	sf	d.41.1	-	CO dehydrogenase molybdoprotein N-domain-like
+54675	sf	d.41.2	-	Nicotinate/Quinolinate PRTase N-terminal domain-like
+54680	sf	d.41.3	-	Pyrimidine nucleoside phosphorylase C-terminal domain
+54686	sf	d.41.4	-	Ribosomal protein L16p/L10e
+54690	sf	d.41.5	-	Molybdopterin synthase subunit MoaE
+54695	sf	d.42.1	-	POZ domain
+54713	sf	d.43.1	-	Elongation factor Ts (EF-Ts), dimerisation domain
+117892	sf	d.43.2	-	Band 7/SPFH domain
+54719	sf	d.44.1	-	Fe,Mn superoxide dismutase (SOD), C-terminal domain
+54736	sf	d.45.1	-	ClpS-like
+54747	sf	d.47.1	-	Ribosomal L11/L12e N-terminal domain
+54752	sf	d.48.1	-	RecA protein, C-terminal domain
+54757	sf	d.48.2	-	Anti-lipopolysaccharide factor
+54762	sf	d.49.1	-	Signal recognition particle alu RNA binding heterodimer, SRP9/14
+54768	sf	d.50.1	-	dsRNA-binding domain-like
+54782	sf	d.50.2	-	Porphobilinogen deaminase (hydroxymethylbilane synthase), C-terminal domain
+54786	sf	d.50.3	-	YcfA/nrd intein domain
+110916	sf	d.50.4	-	Peptidyl-tRNA hydrolase domain-like
+143212	sf	d.50.5	-	Rv2632c-like
+54791	sf	d.51.1	-	Eukaryotic type KH-domain (KH-domain type I)
+54806	sf	d.52.1	-	Alpha-lytic protease prodomain
+54810	sf	d.52.2	-	GMP synthetase C-terminal dimerisation domain
+54814	sf	d.52.3	-	Prokaryotic type KH domain (KH-domain type II)
+75420	sf	d.52.4	-	YhbC-like, N-terminal domain
+82653	sf	d.52.5	-	Probable GTPase Der, C-terminal domain
+82657	sf	d.52.6	-	BolA-like
+89919	sf	d.52.7	-	Ribosome-binding factor A, RbfA
+117916	sf	d.52.8	-	Fe-S cluster assembly (FSCA) domain-like
+160240	sf	d.52.9	-	Cation efflux protein cytoplasmic domain-like
+160246	sf	d.52.10	-	EspE N-terminal domain-like
+54821	sf	d.53.1	-	Ribosomal protein S3 C-terminal domain
+54826	sf	d.54.1	-	Enolase N-terminal domain-like
+54843	sf	d.55.1	-	Ribosomal protein L22
+54849	sf	d.56.1	-	GroEL-intermediate domain like
+54857	sf	d.57.1	-	DNA damage-inducible protein DinI
+54862	sf	d.58.1	-	4Fe-4S ferredoxins
+54893	sf	d.58.2	-	Aspartate carbamoyltransferase, Regulatory-chain, N-terminal domain
+54897	sf	d.58.3	-	Protease propeptides/inhibitors
+54909	sf	d.58.4	-	Dimeric alpha+beta barrel
+54913	sf	d.58.5	-	GlnB-like
+54919	sf	d.58.6	-	Nucleoside diphosphate kinase, NDK
+54928	sf	d.58.7	-	RNA-binding domain, RBD, aka RNA recognition motif (RRM)
+54957	sf	d.58.8	-	Viral DNA-binding domain
+54966	sf	d.58.9	-	RuBisCO, large subunit, small (N-terminal) domain
+54975	sf	d.58.10	-	Acylphosphatase/BLUF domain-like
+54980	sf	d.58.11	-	EF-G C-terminal domain-like
+54984	sf	d.58.12	-	eEF-1beta-like
+54991	sf	d.58.13	-	Anticodon-binding domain of PheRS
+54995	sf	d.58.14	-	Ribosomal protein S6
+54999	sf	d.58.15	-	Ribosomal protein S10
+55003	sf	d.58.16	-	PAP/Archaeal CCA-adding enzyme, C-terminal domain
+55008	sf	d.58.17	-	HMA, heavy metal-associated domain
+55021	sf	d.58.18	-	ACT-like
+55031	sf	d.58.19	-	Bacterial exopeptidase dimerisation domain
+55035	sf	d.58.20	-	NAD-binding domain of HMG-CoA reductase
+55040	sf	d.58.21	-	Molybdenum cofactor biosynthesis protein C, MoaC
+55044	sf	d.58.22	-	TRADD, N-terminal domain
+55048	sf	d.58.23	-	Probable ACP-binding domain of malonyl-CoA ACP transacylase
+55052	sf	d.58.24	-	CheY-binding domain of CheA
+55056	sf	d.58.25	-	Killer toxin KP6 alpha-subunit
+55060	sf	d.58.26	-	GHMP Kinase, C-terminal domain
+55064	sf	d.58.27	-	Translational regulator protein regA
+55068	sf	d.58.28	-	Peptide methionine sulfoxide reductase
+55073	sf	d.58.29	-	Nucleotide cyclase
+55083	sf	d.58.30	-	6-hydroxymethyl-7,8-dihydropterin pyrophosphokinase, HPPK
+55088	sf	d.58.31	-	Methyl-coenzyme M reductase subunits
+55103	sf	d.58.32	-	FAD-linked oxidases, C-terminal domain
+55112	sf	d.58.33	-	Formylmethanofuran:tetrahydromethanopterin formyltransferase
+55116	sf	d.58.34	-	Formiminotransferase domain of formiminotransferase-cyclodeaminase.
+55124	sf	d.58.36	-	Nitrite/Sulfite reductase N-terminal domain-like
+69737	sf	d.58.38	-	Urease metallochaperone UreE, C-terminal domain
+69742	sf	d.58.39	-	Glutamyl tRNA-reductase catalytic, N-terminal domain
+75445	sf	d.58.40	-	D-ribose-5-phosphate isomerase (RpiA), lid domain
+82671	sf	d.58.41	-	SEA domain
+82679	sf	d.58.42	-	N-utilization substance G protein NusG, N-terminal domain
+82689	sf	d.58.43	-	Mechanosensitive channel protein MscS (YggB), C-terminal domain
+82693	sf	d.58.44	-	Multidrug efflux transporter AcrB pore domain; PN1, PN2, PC1 and PC2 subdomains
+89942	sf	d.58.46	-	eEF1-gamma domain
+89946	sf	d.58.47	-	Hypothetical protein VC0424
+89957	sf	d.58.48	-	MTH1187/YkoF-like
+89963	sf	d.58.49	-	YajQ-like
+103007	sf	d.58.50	-	Hypothetical protein TT1725
+110993	sf	d.58.51	-	eIF-2-alpha, C-terminal domain
+110997	sf	d.58.52	-	Sporulation related repeat
+117987	sf	d.58.53	-	Ferredoxin-like domains from CRISPR-associated proteins
+117991	sf	d.58.54	-	YbeD/HP0495-like
+143410	sf	d.58.55	-	DOPA-like
+143414	sf	d.58.56	-	CcmK-like
+143422	sf	d.58.57	-	Transposase IS200-like
+143430	sf	d.58.58	-	CRISPR associated protein Cas2-like
+160350	sf	d.58.59	-	Rnp2-like
+160355	sf	d.58.60	-	Bacterial polysaccharide co-polymerase-like
+160363	sf	d.58.61	-	MTH889-like
+160369	sf	d.58.62	-	Ribosomal protein L10-like
+418752	sf	d.58.63	-	Cytosolic domain of OSCA channel-like
+418753	sf	d.58.64	-	Cytosolic domain of anoctamin channel-like
+418755	sf	d.58.65	-	DUF4478 domain-like
+55129	sf	d.59.1	-	Ribosomal protein L30p/L7e
+55136	sf	d.60.1	-	Probable bacterial effector-binding domain
+55144	sf	d.61.1	-	LigT-like
+55149	sf	d.62.1	-	Pepsin inhibitor-3
+55154	sf	d.63.1	-	CYTH-like phosphatases
+55159	sf	d.64.1	-	eIF1-like
+118010	sf	d.64.2	-	TM1457-like
+55166	sf	d.65.1	-	Hedgehog/DD-peptidase
+55174	sf	d.66.1	-	Alpha-L RNA-binding motif
+55186	sf	d.67.1	-	ThrRS/AlaRS common domain
+55190	sf	d.67.2	-	Arginyl-tRNA synthetase (ArgRS), N-terminal 'additional' domain
+55194	sf	d.67.3	-	Ribosome recycling factor, RRF
+103054	sf	d.67.4	-	General secretion pathway protein M, EpsM
+55200	sf	d.68.1	-	Translation initiation factor IF3, C-terminal domain
+55205	sf	d.68.2	-	EPT/RTPC-like
+64307	sf	d.68.3	-	SirA-like
+75471	sf	d.68.4	-	YhbY-like
+64586	sf	d.68.5	-	C-terminal domain of ProRS
+82704	sf	d.68.6	-	AlbA-like
+82708	sf	d.68.7	-	R3H domain
+160443	sf	d.68.8	-	SMR domain-like
+55221	sf	d.70.1	-	Yeast killer toxins
+55229	sf	d.71.1	-	Cell division protein MinE topological specificity domain
+55234	sf	d.72.1	-	Cyanase C-terminal domain
+55239	sf	d.73.1	-	RuBisCO, small subunit
+55248	sf	d.74.1	-	PCD-like
+55252	sf	d.74.2	-	C-terminal domain of arginine repressor
+55257	sf	d.74.3	-	RBP11-like subunits of RNA polymerase
+55261	sf	d.74.4	-	GAD domain-like
+160467	sf	d.74.5	-	PH0987 N-terminal domain-like
+55267	sf	d.75.1	-	tRNA-intron endonuclease N-terminal domain-like
+55271	sf	d.75.2	-	DNA repair protein MutS, domain I
+55277	sf	d.76.1	-	GYF domain
+160481	sf	d.76.2	-	BRK domain-like
+55282	sf	d.77.1	-	RL5-like
+55287	sf	d.78.1	-	RPB5-like RNA polymerase subunit
+55298	sf	d.79.1	-	YjgF-like
+55307	sf	d.79.2	-	Tubulin C-terminal domain-like
+55315	sf	d.79.3	-	L30e-like
+55326	sf	d.79.4	-	PurM N-terminal domain-like
+69765	sf	d.79.5	-	IpsF-like
+103084	sf	d.79.6	-	Holliday junction resolvase RusA
+103088	sf	d.79.7	-	OmpA-like
+160515	sf	d.79.8	-	YueI-like
+160519	sf	d.79.9	-	BB2672-like
+55331	sf	d.80.1	-	Tautomerase/MIF
+55347	sf	d.81.1	-	Glyceraldehyde-3-phosphate dehydrogenase-like, C-terminal domain
+143548	sf	d.81.2	-	Serine metabolism enzymes domain
+143555	sf	d.81.3	-	FwdE-like
+160527	sf	d.81.4	-	V-type ATPase subunit E-like
+55383	sf	d.82.1	-	Copper amine oxidase, domain N
+55387	sf	d.82.2	-	Frataxin/Nqo15-like
+103107	sf	d.82.3	-	Hypothetical protein c14orf129, hspc210
+143575	sf	d.82.4	-	GAS2 domain-like
+143579	sf	d.82.5	-	GK1464-like
+55394	sf	d.83.1	-	Bactericidal permeability-increasing protein, BPI
+103111	sf	d.83.2	-	Activator of Hsp90 ATPase, Aha1
+55399	sf	d.84.1	-	Subtilisin inhibitor
+55405	sf	d.85.1	-	RNA bacteriophage capsid protein
+55418	sf	d.86.1	-	eIF4e-like
+55424	sf	d.87.1	-	FAD/NAD-linked reductases, dimerisation (C-terminal) domain
+55447	sf	d.87.2	-	CO dehydrogenase flavoprotein C-terminal domain-like
+55455	sf	d.88.1	-	SRF-like
+55464	sf	d.89.1	-	Origin of replication-binding domain, RBD-like
+55469	sf	d.90.1	-	FMN-dependent nitroreductase-like
+55481	sf	d.91.1	-	N-terminal domain of eukaryotic peptide chain release factor subunit 1, ERF1
+55486	sf	d.92.1	-	Metalloproteases ('zincins'), catalytic domain
+55545	sf	d.92.2	-	beta-N-acetylhexosaminidase-like domain
+55550	sf	d.93.1	-	SH2 domain
+55594	sf	d.94.1	-	HPr-like
+75500	sf	d.94.2	-	Putative transcriptional regulator TM1602, C-terminal domain
+55604	sf	d.95.1	-	Glucose permease domain IIB
+55608	sf	d.95.2	-	Homing endonucleases
+55620	sf	d.96.1	-	Tetrahydrobiopterin biosynthesis enzymes-like
+143631	sf	d.96.2	-	ApbE-like
+55637	sf	d.97.1	-	Cell cycle regulatory proteins
+55648	sf	d.98.1	-	beta-lactamase-inhibitor protein, BLIP
+160574	sf	d.98.2	-	BT0923-like
+55653	sf	d.99.1	-	Ribosomal protein L9 C-domain
+55658	sf	d.100.1	-	L9 N-domain-like
+160582	sf	d.100.2	-	MbtH-like
+55666	sf	d.101.1	-	Ribonuclease PH domain 2-like
+55671	sf	d.102.1	-	Regulatory factor Nef
+55676	sf	d.103.1	-	CytB endotoxin-like
+55681	sf	d.104.1	-	Class II aaRS and biotin synthetases
+55711	sf	d.105.1	-	Subdomain of clathrin and coatomer appendage domain
+55718	sf	d.106.1	-	SCP-like
+55724	sf	d.107.1	-	Mog1p/PsbP-like
+55729	sf	d.108.1	-	Acyl-CoA N-acyltransferases (Nat)
+55753	sf	d.109.1	-	Actin depolymerizing proteins
+82754	sf	d.109.2	-	C-terminal, gelsolin-like domain of Sec23/24
+160651	sf	d.109.3	-	FLJ32549 C-terminal domain-like
+55770	sf	d.110.1	-	Profilin (actin-binding protein)
+55781	sf	d.110.2	-	GAF domain-like
+55785	sf	d.110.3	-	PYP-like sensor domain (PAS domain)
+64356	sf	d.110.4	-	SNARE-like
+75516	sf	d.110.5	-	Pheromone-binding domain of LuxR-like quorum-sensing transcription factors
+103190	sf	d.110.6	-	Sensory domain-like
+103196	sf	d.110.7	-	Roadblock/LC7 domain
+143737	sf	d.110.8	-	YeeU-like
+143744	sf	d.110.9	-	GlcG-like
+160683	sf	d.110.10	-	YNR034W-A-like
+55797	sf	d.111.1	-	PR-1-like
+55804	sf	d.112.1	-	Phoshotransferase/anion transport protein
+55811	sf	d.113.1	-	Nudix
+55816	sf	d.114.1	-	5'-nucleotidase (syn. UDP-sugar hydrolase), C-terminal domain
+55821	sf	d.115.1	-	YrdC/RibB
+55826	sf	d.116.1	-	YbaK/ProRS associated domain
+55831	sf	d.117.1	-	Thymidylate synthase/dCMP hydroxymethylase
+55846	sf	d.118.1	-	N-acetylmuramoyl-L-alanine amidase-like
+55856	sf	d.120.1	-	Cytochrome b5-like heme/steroid binding domain
+55869	sf	d.121.1	-	DNA topoisomerase I domain
+55874	sf	d.122.1	-	ATPase domain of HSP90 chaperone/DNA topoisomerase II/histidine kinase
+55890	sf	d.123.1	-	Sporulation response regulatory protein Spo0B
+55895	sf	d.124.1	-	Ribonuclease Rh-like
+55904	sf	d.125.1	-	Ornithine decarboxylase C-terminal domain
+55909	sf	d.126.1	-	Pentein
+55920	sf	d.127.1	-	Creatinase/aminopeptidase
+55931	sf	d.128.1	-	Glutamine synthetase/guanido kinase
+55945	sf	d.129.1	-	TATA-box binding protein-like
+55957	sf	d.129.2	-	Phosphoglucomutase, C-terminal domain
+55961	sf	d.129.3	-	Bet v1-like
+64383	sf	d.129.4	-	Cell-division protein ZipA, C-terminal domain
+103239	sf	d.129.5	-	MoaD-related protein, C-terminal domain
+103243	sf	d.129.6	-	KA1-like
+103247	sf	d.129.7	-	TT1751-like
+111171	sf	d.129.8	-	Rbstp2229 protein
+118104	sf	d.129.9	-	RalF, C-terminal domain
+143842	sf	d.129.10	-	YwmB-like
+160755	sf	d.129.11	-	YugN-like
+55973	sf	d.130.1	-	S-adenosylmethionine synthetase
+55979	sf	d.131.1	-	DNA clamp
+56003	sf	d.133.1	-	Molybdenum cofactor-binding domain
+56014	sf	d.134.1	-	Nitrite and sulphite reductase 4Fe-4S domain-like
+56019	sf	d.135.1	-	The spindle assembly checkpoint protein mad2
+56024	sf	d.136.1	-	Phospholipase D/nuclease
+56029	sf	d.137.1	-	Monooxygenase (hydroxylase) regulatory protein
+56042	sf	d.139.1	-	PurM C-terminal domain-like
+56047	sf	d.140.1	-	Ribosomal protein S8
+56053	sf	d.141.1	-	Ribosomal protein L6
+56059	sf	d.142.1	-	Glutathione synthetase ATP-binding domain-like
+56091	sf	d.142.2	-	DNA ligase/mRNA capping enzyme, catalytic domain
+56104	sf	d.143.1	-	SAICAR synthase-like
+56112	sf	d.144.1	-	Protein kinase-like (PK-like)
+56176	sf	d.145.1	-	FAD-binding/transporter-associated domain-like
+56194	sf	d.146.1	-	Uridine diphospho-N-Acetylenolpyruvylglucosamine reductase, MurB, C-terminal domain
+56199	sf	d.147.1	-	Methenyltetrahydromethanopterin cyclohydrolase
+56204	sf	d.148.1	-	Hect, E3 ligase catalytic domain
+56209	sf	d.149.1	-	Nitrile hydratase alpha chain
+56214	sf	d.150.1	-	4'-phosphopantetheinyl transferase
+56219	sf	d.151.1	-	DNase I-like
+56228	sf	d.152.1	-	Aldehyde ferredoxin oxidoreductase, N-terminal domain
+56235	sf	d.153.1	-	N-terminal nucleophile aminohydrolases (Ntn hydrolases)
+75569	sf	d.153.2	-	Archaeal IMP cyclohydrolase PurO
+56266	sf	d.154.1	-	DmpA/ArgJ-like
+56271	sf	d.155.1	-	Pyruvoyl-dependent histidine and arginine decarboxylases
+56276	sf	d.156.1	-	S-adenosylmethionine decarboxylase
+56281	sf	d.157.1	-	Metallo-hydrolase/oxidoreductase
+56300	sf	d.159.1	-	Metallo-dependent phosphatases
+56317	sf	d.160.1	-	Carbon-nitrogen hydrolase
+56322	sf	d.161.1	-	ADC synthase
+56327	sf	d.162.1	-	LDH C-terminal domain-like
+56349	sf	d.163.1	-	DNA breaking-rejoining enzymes
+56366	sf	d.164.1	-	SMAD MH1 domain
+56371	sf	d.165.1	-	Ribosome inactivating proteins (RIP)
+56399	sf	d.166.1	-	ADP-ribosylation
+56420	sf	d.167.1	-	Peptide deformylase
+56425	sf	d.168.1	-	Succinate dehydrogenase/fumarate reductase flavoprotein, catalytic domain
+56436	sf	d.169.1	-	C-type lectin-like
+56487	sf	d.170.1	-	SRCR-like
+56491	sf	d.170.2	-	A heparin-binding domain
+56496	sf	d.171.1	-	Fibrinogen C-terminal domain-like
+56502	sf	d.172.1	-	gp120 core
+56507	sf	d.173.1	-	Methionine synthase activation domain-like
+56512	sf	d.174.1	-	Nitric oxide (NO) synthase oxygenase domain
+56519	sf	d.175.1	-	Penicillin binding protein dimerisation domain
+56524	sf	d.176.1	-	Oxidoreductase molybdopterin-binding domain
+56529	sf	d.177.1	-	FAH
+56534	sf	d.178.1	-	Aromatic aminoacid monoxygenases, catalytic and oligomerization domains
+56542	sf	d.179.1	-	Substrate-binding domain of HMG-CoA reductase
+56548	sf	d.180.1	-	Conserved core of transcriptional regulatory protein vp16
+56553	sf	d.181.1	-	Insert subdomain of RNA polymerase alpha subunit
+56558	sf	d.182.1	-	Baseplate structural protein gp11
+56563	sf	d.183.1	-	Major capsid protein gp5
+56568	sf	d.184.1	-	Non-globular alpha+beta subunits of globular proteins
+63411	sf	d.185.1	-	LuxS/MPP-like metallohydrolase
+64210	sf	d.186.1	-	Head-to-tail joining protein W, gpW
+159865	sf	d.186.2	-	XkdW-like
+64234	sf	d.187.1	-	Photosystem I subunit PsaD
+64263	sf	d.188.1	-	Prokaryotic ribosomal protein L17
+64268	sf	d.189.1	-	PX domain
+64288	sf	d.190.1	-	Chorismate lyase-like
+64376	sf	d.192.1	-	YlxR-like
+64397	sf	d.193.1	-	Hsp33 domain
+64438	sf	d.194.1	-	CNF1/YfiH-like putative cysteine hydrolases
+64449	sf	d.195.1	-	YopH tyrosine phosphatase N-terminal domain
+64465	sf	d.196.1	-	Outer capsid protein sigma 3
+68930	sf	d.197.1	-	Protein-L-isoaspartyl O-methyltransferase, C-terminal domain
+69635	sf	d.198.1	-	Type III secretory system chaperone-like
+69645	sf	d.198.2	-	Arp2/3 complex subunits
+142906	sf	d.198.3	-	YjbR-like
+159888	sf	d.198.4	-	YdhG-like
+159894	sf	d.198.5	-	YgaC/TfoX-N like
+69652	sf	d.199.1	-	DNA-binding C-terminal domain of the transcription factor MotA
+69687	sf	d.200.1	-	Integrin beta tail domain
+69695	sf	d.201.1	-	SRP19
+69705	sf	d.202.1	-	Transcription factor NusA, N-terminal domain
+69721	sf	d.203.1	-	DsrC, the gamma subunit of dissimilatory sulfite reductase
+69754	sf	d.204.1	-	Ribosome binding protein Y (YfiA homologue)
+69761	sf	d.205.1	-	GTP cyclohydrolase I feedback regulatory protein, GFRP
+69786	sf	d.206.1	-	YggU-like
+69796	sf	d.207.1	-	Thymidylate synthase-complementing protein Thy1
+69819	sf	d.208.1	-	MTH1598-like
+69848	sf	d.209.1	-	LCCL domain
+69864	sf	d.210.1	-	Argininosuccinate synthetase, C-terminal domain
+48403	sf	d.211.1	-	Ankyrin repeat
+75399	sf	d.211.2	-	Plakin repeat
+74653	sf	d.212.1	-	TolA/TonB C-terminal domain
+75404	sf	d.213.1	-	VSV matrix protein
+75412	sf	d.214.1	-	Hypothetical protein MTH1880
+75553	sf	d.215.1	-	Smc hinge domain
+75574	sf	d.216.1	-	Rotavirus NSP2 fragment, N-terminal domain
+63763	sf	d.217.1	-	SAND domain-like
+81301	sf	d.218.1	-	Nucleotidyltransferase
+81606	sf	d.219.1	-	PP2C-like
+81660	sf	d.220.1	-	Metal cation-transporting ATPase, ATP-binding domain N
+82602	sf	d.221.1	-	Nuclease A inhibitor (NuiA)
+82607	sf	d.222.1	-	YbaB-like
+82615	sf	d.223.1	-	Polo-box domain
+82649	sf	d.224.1	-	SufE/NifU
+82714	sf	d.225.1	-	Multidrug efflux transporter AcrB TolC docking domain; DN and DC subdomains
+82771	sf	d.226.1	-	GIY-YIG endonuclease
+82784	sf	d.227.1	-	OsmC-like
+82808	sf	d.228.1	-	Replication modulator SeqA, C-terminal DNA-binding domain
+82829	sf	d.229.1	-	MesJ substrate recognition domain-like
+88798	sf	d.230.1	-	N-terminal, heterodimerisation domain of RBP7 (RpoE)
+89807	sf	d.230.2	-	Dodecin-like
+89811	sf	d.230.3	-	Amyloid beta a4 protein copper binding domain (domain 2)
+117778	sf	d.230.4	-	D-lysine 5,6-aminomutase beta subunit KamE, N-terminal domain
+117782	sf	d.230.5	-	YbjQ-like
+159871	sf	d.230.6	-	YdgH-like
+418764	sf	d.230.7	-	Oligosaccharide binding protein
+418765	sf	d.230.8	-	P2X receptor head domain-like
+418767	sf	d.230.9	-	P2X receptor transmembrane region
+88874	sf	d.231.1	-	Receptor-binding domain of short tail fibre protein gp12
+89817	sf	d.232.1	-	Mago nashi protein
+89872	sf	d.233.1	-	Inhibitor of vertebrate lysozyme, Ivy
+89890	sf	d.234.1	-	Proguanylin
+89895	sf	d.235.1	-	FYSH domain
+89915	sf	d.236.1	-	DNA-binding protein Tfx
+90002	sf	d.237.1	-	Hypothetical protein YjiA, C-terminal domain
+90064	sf	d.238.1	-	Hypothetical protein TM0875
+90073	sf	d.239.1	-	GCM domain
+100879	sf	d.240.1	-	Lesion bypass DNA polymerase (Y-family), little finger domain
+100966	sf	d.241.1	-	Translation initiation factor 2 beta, aIF2beta, N-terminal domain
+102735	sf	d.241.2	-	Trigger factor ribosome-binding domain
+102741	sf	d.242.1	-	Obg GTP-binding protein C-terminal domain
+102824	sf	d.243.1	-	Colicin D/E5 nuclease domain
+102829	sf	d.244.1	-	Cell division protein ZapA-like
+102848	sf	d.245.1	-	NSFL1 (p97 ATPase) cofactor p47, SEP domain
+102860	sf	d.246.1	-	mRNA decapping enzyme DcpS N-terminal domain
+102875	sf	d.247.1	-	Chromosomal protein MC1
+102886	sf	d.248.1	-	Coproporphyrinogen III oxidase
+254140	sf	d.248.2	-	Ferredoxin-dependent bilin reductase
+102891	sf	d.249.1	-	Hypothetical protein Ta1206
+103025	sf	d.250.1	-	Folate-binding domain
+103032	sf	d.251.1	-	Hypothetical protein YwqG
+103039	sf	d.252.1	-	CheC-like
+103063	sf	d.253.1	-	Hypothetical protein YoaG
+103068	sf	d.254.1	-	Nucleocapsid protein dimerization domain
+103145	sf	d.255.1	-	Tombusvirus P19 core protein, VP19
+103165	sf	d.256.1	-	Ta1353-like
+103256	sf	d.257.1	-	Hypothetical protein TM0160
+103263	sf	d.258.1	-	Chorismate synthase, AroC
+103277	sf	d.259.1	-	Hypothetical protein HI1480
+103359	sf	d.260.1	-	Suppressor of Fused, N-terminal domain
+103365	sf	d.261.1	-	Hypothetical protein PH1602
+103370	sf	d.262.1	-	NinB
+89975	sf	d.263.1	-	Hypothetical protein Yml108w
+56747	sf	d.264.1	-	Prim-pol domain
+55120	sf	d.265.1	-	Pseudouridine synthase
+110783	sf	d.266.1	-	Hypothetical protein MTH677
+110836	sf	d.267.1	-	Hypothetical protein SAV1430
+110849	sf	d.268.1	-	ParB/Sulfiredoxin
+110857	sf	d.269.1	-	Gamma-glutamyl cyclotransferase-like
+110921	sf	d.270.1	-	2-isopropylmalate synthase LeuA, allosteric (dimerisation) domain
+110942	sf	d.271.1	-	HSP90 C-terminal domain
+111006	sf	d.272.1	-	Dystroglycan, domain 2
+111038	sf	d.273.1	-	YjbQ-like
+111057	sf	d.274.1	-	Hypothetical protein PF0899
+111064	sf	d.275.1	-	Hut operon positive regulatory protein HutP
+111069	sf	d.276.1	-	Hypothetical protein yfbM
+111074	sf	d.277.1	-	Bacillus phage protein
+111126	sf	d.278.1	-	Ligand-binding domain in the NO signalling and Golgi transport
+111148	sf	d.279.1	-	YggX-like
+111249	sf	d.280.1	-	Sulfolobus fructose-1,6-bisphosphatase-like
+111265	sf	d.281.1	-	Hemolytic lectin CEL-III, C-terminal domain
+111278	sf	d.282.1	-	SSo0622-like
+111283	sf	d.283.1	-	Putative modulator of DNA gyrase, PmbA/TldD
+82697	sf	d.284.1	-	PurS-like
+64496	sf	d.285.1	-	DNA-binding domain of intron-encoded endonucleases
+116726	sf	d.286.1	-	TrkA C-terminal domain-like
+116734	sf	d.287.1	-	DNA methylase specificity domain
+117773	sf	d.288.1	-	GTF2I-like repeat
+117839	sf	d.289.1	-	WWE domain
+117856	sf	d.290.1	-	AF0104/ALDC/Ptd012-like
+118001	sf	d.291.1	-	YehU-like
+118116	sf	d.292.1	-	DNA mismatch repair protein MutL
+118173	sf	d.293.1	-	Phosphoprotein M1, C-terminal domain
+142877	sf	d.294.1	-	EndoU-like
+142897	sf	d.295.1	-	TFB5-like
+142913	sf	d.296.1	-	YktB/PF0168-like
+142921	sf	d.297.1	-	WGR domain-like
+143011	sf	d.298.1	-	RelE-like
+143021	sf	d.299.1	-	Ns1 effector domain-like
+143026	sf	d.300.1	-	Kinetochore globular domain
+143034	sf	d.301.1	-	L35p-like
+143076	sf	d.302.1	-	Coronavirus NSP8-like
+143081	sf	d.303.1	-	BB1717-like
+143100	sf	d.304.1	-	TTHA1013/TTHA0281-like
+143113	sf	d.305.1	-	NAP-like
+143120	sf	d.306.1	-	YefM-like
+143243	sf	d.307.1	-	Nqo5-like
+143437	sf	d.308.1	-	THUMP domain-like
+143447	sf	d.309.1	-	AMMECR1-like
+143456	sf	d.310.1	-	VC0467-like
+143469	sf	d.311.1	-	ImmE5-like
+143477	sf	d.312.1	-	TM1622-like
+143492	sf	d.313.1	-	Prenyltransferase-like
+143503	sf	d.314.1	-	PUG domain-like
+143517	sf	d.315.1	-	TRCF domain-like
+143560	sf	d.316.1	-	MK0786-like
+143567	sf	d.317.1	-	YkuJ-like
+143587	sf	d.318.1	-	SARS receptor-binding domain-like
+143592	sf	d.319.1	-	TTHA1528-like
+143597	sf	d.320.1	-	YojJ-like
+143602	sf	d.321.1	-	STIV B116-like
+143724	sf	d.322.1	-	PHP14-like
+143749	sf	d.323.1	-	Phage tail protein-like
+143791	sf	d.324.1	-	DUSP-like
+143800	sf	d.325.1	-	L28p-like
+143847	sf	d.326.1	-	XisI-like
+143856	sf	d.327.1	-	DeoB insert domain-like
+143865	sf	d.328.1	-	CorA soluble domain-like
+143870	sf	d.329.1	-	PF0523-like
+143875	sf	d.330.1	-	ERH-like
+143880	sf	d.331.1	-	NE0471 N-terminal domain-like
+143885	sf	d.332.1	-	RGC domain-like
+143968	sf	d.333.1	-	UbiD C-terminal domain-like
+143975	sf	d.334.1	-	IlvD/EDD N-terminal domain-like
+143985	sf	d.335.1	-	L,D-transpeptidase pre-catalytic domain-like
+143990	sf	d.336.1	-	YbiA-like
+143995	sf	d.337.1	-	AF2331-like
+144000	sf	d.338.1	-	Oxysterol-binding protein-like
+144005	sf	d.339.1	-	ORC1-binding domain
+144010	sf	d.340.1	-	CofE-like
+144015	sf	d.341.1	-	Peptidoglycan deacetylase N-terminal noncatalytic region
+159902	sf	d.342.1	-	PH1570-like
+159941	sf	d.343.1	-	MM3350-like
+160059	sf	d.344.1	-	PriA/YqbF domain
+160088	sf	d.345.1	-	NRDP1 C-terminal domain-like
+160099	sf	d.346.1	-	SARS Nsp1-like
+160104	sf	d.347.1	-	Acetoacetate decarboxylase-like
+160113	sf	d.348.1	-	YegP-like
+160148	sf	d.349.1	-	CPE0013-like
+160191	sf	d.350.1	-	YcgL-like
+160207	sf	d.351.1	-	NMB0488-like
+160214	sf	d.352.1	-	FlaG-like
+160219	sf	d.353.1	-	AMPKBI-like
+160272	sf	d.354.1	-	Shew3726-like
+160374	sf	d.355.1	-	RplX-like
+160379	sf	d.356.1	-	SP0830-like
+160387	sf	d.357.1	-	NosL/MerB-like
+160419	sf	d.358.1	-	YdfO-like
+160424	sf	d.359.1	-	BH3703-like
+160448	sf	d.360.1	-	PG1857-like
+160453	sf	d.361.1	-	PB2 C-terminal domain-like
+160459	sf	d.362.1	-	BLRF2-like
+160472	sf	d.363.1	-	NMB0513-like
+160477	sf	d.364.1	-	PA1123-like
+160532	sf	d.365.1	-	Ava3019-like
+160537	sf	d.366.1	-	SpoVG-like
+160544	sf	d.367.1	-	EscU C-terminal domain-like
+160570	sf	d.368.1	-	YonK-like
+160631	sf	d.369.1	-	SMI1/KNR4-like
+160696	sf	d.370.1	-	BTG domain-like
+160704	sf	d.371.1	-	YehR-like
+160713	sf	d.372.1	-	YqaI-like
+160719	sf	d.373.1	-	gpW/gp25-like
+160761	sf	d.374.1	-	TTHC002-like
+160766	sf	d.375.1	-	NE1680-like
+160800	sf	d.376.1	-	Lp2179-like
+160887	sf	d.377.1	-	Rv2827c C-terminal domain-like
+160892	sf	d.378.1	-	Phosphoprotein oligomerization domain-like
+160897	sf	d.379.1	-	Taf5 N-terminal domain-like
+160904	sf	d.380.1	-	Jann2411-like
+160909	sf	d.381.1	-	ATP12-like
+160920	sf	d.382.1	-	PSTPO5379-like
+160925	sf	d.383.1	-	PG1388-like
+254136	sf	d.384.1	-	SV5-V core-like
+254139	sf	d.385.1	-	DNA gyrase B, insert domain-like
+254141	sf	d.386.1	-	Tyrosinase cofactor MelC1
+254144	sf	d.387.1	-	STING, TM173 CTD-like
+267597	sf	d.388.1	-	Filoviridae VP35-like
+310582	sf	d.389.1	-	Menin N-terminal domain-like
+310590	sf	d.390.1	-	KS-to-AT linker domain from 6-deoxyerythronolide B synthase (DEBS)-like
+310598	sf	d.391.1	-	POlypeptide TRansport Associated (PORTRA) domain-like
+310602	sf	d.392.1	-	GBBH N-terminal domain-like (DUF971)
+345923	sf	d.393.1	-	CRISPR-associated endonuclease Cas9/Csn1, Target recognition (REC) lobe
+345924	sf	d.394.1	-	N-terminal domain of Prp8 / Spp42
+345925	sf	d.395.1	-	Pre-mRNA splicing factor Cwc16-like
+418740	sf	d.396.1	-	Influenza virus PB2 '627' domain-like
+418741	sf	d.397.1	-	Influenza virus PB2 cap binding domain-like
+418758	sf	d.398.1	-	NUC domain from CRISPR-associated protein Cas12a / Cpf1-like
+418762	sf	d.399.1	-	Ebola nucleoprotein C-terminal domain-like
+418769	sf	d.400.1	-	Lem10 N-terminal domain-like
+418770	sf	d.401.1	-	Cas3 C-terminal domain-like
+418772	sf	d.402.1	-	B domain from Cmr1-like
+418774	sf	d.403.1	-	Lewis(b) antigen binding domain of BabA-like
+56574	sf	e.1.1	-	Serpins
+56596	sf	e.2.1	-	Replication terminator protein (Tus)
+56601	sf	e.3.1	-	beta-lactamase/transpeptidase-like
+56634	sf	e.5.1	-	Heme-dependent catalase-like
+56645	sf	e.6.1	-	Acyl-CoA dehydrogenase NM domain-like
+56655	sf	e.7.1	-	Carbohydrate phosphatase
+56672	sf	e.8.1	-	DNA/RNA polymerases
+56712	sf	e.10.1	-	Prokaryotic type I DNA topoisomerase
+56719	sf	e.11.1	-	Type II DNA topoisomerase C-terminal domain-like
+56726	sf	e.12.1	-	DNA topoisomerase IV, alpha subunit
+56731	sf	e.13.1	-	DNA primase core
+56741	sf	e.15.1	-	Eukaryotic DNA topoisomerase I, N-terminal DNA-binding fragment
+56752	sf	e.17.1	-	D-aminoacid aminotransferase-like PLP-dependent enzymes
+56762	sf	e.18.1	-	HydB/Nqo4-like
+56770	sf	e.19.1	-	HydA/Nqo6-like
+56796	sf	e.22.1	-	Dehydroquinate synthase-like
+56801	sf	e.23.1	-	Acetyl-CoA synthetase-like
+56808	sf	e.24.1	-	Ribosomal protein L1
+56815	sf	e.25.1	-	Sec1/munc18-like (SM) proteins
+56821	sf	e.26.1	-	Prismane protein-like
+56826	sf	e.27.1	-	Upper collar protein gp10 (connector protein)
+56831	sf	e.28.1	-	Reovirus inner layer core protein p3
+64484	sf	e.29.1	-	beta and beta-prime subunits of DNA dependent RNA-polymerase
+64518	sf	e.32.1	-	Phase 1 flagellin
+69903	sf	e.34.1	-	NSP3 homodimer
+69908	sf	e.35.1	-	Membrane penetration protein mu1
+75615	sf	e.37.1	-	Siroheme synthase middle domains-like
+75620	sf	e.38.1	-	Release factor
+75625	sf	e.39.1	-	YebC-like
+75632	sf	e.40.1	-	Cullin homology domain
+81298	sf	e.41.1	-	Adenylylcyclase toxin (the edema factor)
+82856	sf	e.42.1	-	L-A virus major coat protein
+90096	sf	e.43.1	-	Subunits of heterodimeric actin filament capping protein Capz
+103378	sf	e.44.1	-	2-methylcitrate dehydratase PrpD
+103383	sf	e.45.1	-	Antivirulence factor
+103388	sf	e.46.1	-	Virulence-associated V antigen
+103409	sf	e.47.1	-	39 kda initiator binding protein, IBP39, C-terminal domains
+103417	sf	e.48.1	-	Major capsid protein VP5
+111304	sf	e.49.1	-	Recombination protein RecR
+111321	sf	e.50.1	-	AF1104-like
+111326	sf	e.51.1	-	Urocanase
+111331	sf	e.52.1	-	NAD kinase/diacylglycerol kinase-like
+111337	sf	e.53.1	-	QueA-like
+111342	sf	e.54.1	-	CbiD-like
+111347	sf	e.55.1	-	Rap/Ran-GAP
+118196	sf	e.56.1	-	YaeB-like
+118203	sf	e.57.1	-	Vacuolar ATP synthase subunit C
+118208	sf	e.58.1	-	Viral ssDNA binding protein
+144020	sf	e.59.1	-	FdhE-like
+144052	sf	e.60.1	-	Thermophilic metalloprotease-like
+144059	sf	e.61.1	-	ImpE-like
+144064	sf	e.62.1	-	Heme iron utilization protein-like
+144074	sf	e.63.1	-	E2F-DP heterodimerization region
+160930	sf	e.64.1	-	FlhC-like
+160935	sf	e.65.1	-	VPA0735-like
+160940	sf	e.66.1	-	Api92-like
+160945	sf	e.67.1	-	PH0156-like
+160950	sf	e.68.1	-	YacF-like
+160957	sf	e.69.1	-	Poly(A) polymerase catalytic subunit-like
+160964	sf	e.70.1	-	MalF N-terminal region-like
+160975	sf	e.71.1	-	AF1531-like
+160980	sf	e.72.1	-	SSO1389-like
+160991	sf	e.73.1	-	CV3147-like
+160996	sf	e.74.1	-	HI0933 insert domain-like
+161003	sf	e.75.1	-	flu NP-like
+161008	sf	e.76.1	-	Viral glycoprotein ectodomain-like
+254132	sf	e.77.1	-	PA C-terminal domain-like
+254138	sf	e.78.1	-	DNA gyrase B, C-terminal domain-like
+310599	sf	e.79.1	-	CRISPR associated protein Cas1-like
+345926	sf	e.80.1	-	CRISPR-associated endonuclease Cas9/Csn1, PAM-interacting (PI) domain
+345927	sf	e.81.1	-	CRISPR associated protein CasA/Cse1-like
+418744	sf	e.82.1	-	Influenza virus PB2 N-terminal region
+418746	sf	e.83.1	-	Coronavirus S1 beta-rich region
+418761	sf	e.84.1	-	N-terminal helical domains from CRISPR-associated protein Cas12a / Cpf1-like
+56837	sf	f.1.1	-	Colicin
+56845	sf	f.1.2	-	Diphtheria toxin, middle domain
+56849	sf	f.1.3	-	delta-Endotoxin (insectocide), N-terminal domain
+56854	sf	f.1.4	-	Bcl-2 inhibitors of programmed cell death
+56864	sf	f.1.5	-	Exotoxin A, middle domain
+56918	sf	f.3.1	-	Light-harvesting complex subunits
+56925	sf	f.4.1	-	OMPA-like
+56931	sf	f.4.2	-	Outer membrane phospholipase A (OMPLA)
+56935	sf	f.4.3	-	Porins
+69917	sf	f.4.4	-	OMPT-like
+103515	sf	f.4.5	-	Autotransporter
+111364	sf	f.4.6	-	Tsx-like channel
+310584	sf	f.4.7	-	Outer membrane carboxylate (Occ) channels
+56954	sf	f.5.1	-	Outer membrane efflux proteins (OEP)
+56959	sf	f.6.1	-	Leukocidin-like
+56968	sf	f.7.1	-	Lipovitellin-phosvitin complex; beta-sheet shell regions
+56973	sf	f.8.1	-	Aerolisin/ETX pore-forming domain
+56983	sf	f.10.1	-	Viral glycoprotein, central and dimerisation domains
+69922	sf	f.12.1	-	Head and neck region of the ectodomain of NDV fusion glycoprotein
+81321	sf	f.13.1	-	Class A G protein-coupled receptor (GPCR)-like
+81324	sf	f.14.1	-	Voltage-gated ion channels
+267604	sf	f.14.2	-	Ligand-gated ion channels
+81327	sf	f.15.1	-	Small-conductance potassium channel
+81330	sf	f.16.1	-	Gated mechanosensitive channel
+81333	sf	f.17.1	-	Rotary ATPase ring subunits
+81464	sf	f.17.2	-	Cytochrome c oxidase subunit II-like, transmembrane region
+144083	sf	f.17.3	-	Magnesium transport protein CorA, transmembrane region
+158212	sf	f.17.4	-	Htr2 transmembrane domain-like
+161055	sf	f.17.5	-	PsbZ-like
+267595	sf	f.17.6	-	Sec-beta or SecG subunit of protein translocation channel
+81336	sf	f.18.1	-	F1F0 ATP synthase subunit A
+81338	sf	f.19.1	-	Aquaporin-like
+81340	sf	f.20.1	-	Clc chloride channel
+81342	sf	f.21.1	-	Transmembrane di-heme cytochromes
+81343	sf	f.21.2	-	Fumarate reductase respiratory complex transmembrane subunits
+103501	sf	f.21.3	-	Respiratory nitrate reductase 1 gamma chain
+81345	sf	f.22.1	-	ABC transporter involved in vitamin B12 uptake, BtuC
+81406	sf	f.23.1	-	Mitochondrial cytochrome c oxidase subunit IV
+81411	sf	f.23.2	-	Mitochondrial cytochrome c oxidase subunit VIa
+81415	sf	f.23.3	-	Mitochondrial cytochrome c oxidase subunit VIc
+81419	sf	f.23.4	-	Mitochondrial cytochrome c oxidase subunit VIIa
+81423	sf	f.23.5	-	Mitochondrial cytochrome c oxidase subunit VIIb
+81427	sf	f.23.6	-	Mitochondrial cytochrome c oxidase subunit VIIc (aka VIIIa)
+81431	sf	f.23.7	-	Mitochondrial cytochrome c oxidase subunit VIIIb (aka IX)
+81469	sf	f.23.8	-	Bacterial aa3 type cytochrome c oxidase subunit IV
+81473	sf	f.23.9	-	Bacterial ba3 type cytochrome c oxidase subunit IIa
+81490	sf	f.23.10	-	Photosystem II reaction centre subunit H, transmembrane region
+81496	sf	f.23.11	-	Cytochrome c1 subunit of cytochrome bc1 complex (Ubiquinol-cytochrome c reductase), transmembrane anchor
+81502	sf	f.23.12	-	ISP transmembrane anchor
+81508	sf	f.23.13	-	Ubiquinone-binding protein QP-C of cytochrome bc1 complex (Ubiquinol-cytochrome c reductase)
+81514	sf	f.23.14	-	Subunit X (non-heme 7 kDa protein) of cytochrome bc1 complex (Ubiquinol-cytochrome c reductase)
+81518	sf	f.23.15	-	Subunit XI (6.4 kDa protein) of cytochrome bc1 complex (Ubiquinol-cytochrome c reductase)
+81536	sf	f.23.16	-	Subunit III of photosystem I reaction centre, PsaF
+81540	sf	f.23.17	-	Subunit VIII of photosystem I reaction centre, PsaI
+81544	sf	f.23.18	-	Subunit IX of photosystem I reaction centre, PsaJ
+81548	sf	f.23.19	-	Subunit XII of photosystem I reaction centre, PsaM
+81552	sf	f.23.20	-	Subunit PsaX of photosystem I reaction centre
+81573	sf	f.23.21	-	F1F0 ATP synthase subunit B, membrane domain
+81597	sf	f.23.22	-	Iron-sulfur subunit of formate dehydrogenase N, transmembrane anchor
+103431	sf	f.23.23	-	Cytochrome f subunit of the cytochrome b6f complex, transmembrane anchor
+103436	sf	f.23.24	-	PetL subunit of the cytochrome b6f complex
+103441	sf	f.23.25	-	PetM subunit of the cytochrome b6f complex
+103446	sf	f.23.26	-	PetG subunit of the cytochrome b6f complex
+103451	sf	f.23.27	-	PetN subunit of the cytochrome b6f complex
+103456	sf	f.23.28	-	Preprotein translocase SecE subunit
+103464	sf	f.23.30	-	Oligosaccharyltransferase subunit ost4p
+161017	sf	f.23.31	-	Photosystem II reaction center protein L, PsbL
+161021	sf	f.23.32	-	Photosystem II reaction center protein J, PsbJ
+161025	sf	f.23.33	-	Photosystem II 10 kDa phosphoprotein PsbH
+161029	sf	f.23.34	-	Photosystem II reaction center protein T, PsbT
+161033	sf	f.23.35	-	Photosystem II reaction center protein M, PsbM
+161037	sf	f.23.36	-	Photosystem II reaction center protein K, PsbK
+161041	sf	f.23.37	-	Photosystem II reaction center protein I, PsbI
+161045	sf	f.23.38	-	Cytochrome b559 subunits
+267598	sf	f.23.39	-	Photosystem II reaction center protein Y, PsbY
+267599	sf	f.23.40	-	Photosystem II reaction center protein X, PsbX
+267600	sf	f.23.41	-	Photosystem II reaction center protein ycf12
+310574	sf	f.23.42	-	Sodium/potassium-transporting ATPase, beta subunit transmembrane helix
+310576	sf	f.23.43	-	ATP1G1/PLM/MAT8-like (FXYD-like)
+81442	sf	f.24.1	-	Cytochrome c oxidase subunit I-like
+81452	sf	f.25.1	-	Cytochrome c oxidase subunit III-like
+81483	sf	f.26.1	-	Bacterial photosystem II reaction centre, L and M subunits
+81524	sf	f.27.1	-	14 kDa protein of cytochrome bc1 complex (Ubiquinol-cytochrome c reductase)
+81531	sf	f.28.1	-	Non-heme 11 kDa protein of cytochrome bc1 complex (Ubiquinol-cytochrome c reductase)
+81558	sf	f.29.1	-	Photosystem I subunits PsaA/PsaB
+81563	sf	f.30.1	-	Photosystem I reaction center subunit X, PsaK
+81568	sf	f.31.1	-	Photosystem I reaction center subunit XI, PsaL
+81648	sf	f.32.1	-	a domain/subunit of cytochrome bc1 complex (Ubiquinol-cytochrome c reductase)
+81665	sf	f.33.1	-	Metal cation-transporting ATPase, transmembrane domain
+82861	sf	f.34.1	-	Mechanosensitive channel protein MscS (YggB), transmembrane region
+82866	sf	f.35.1	-	Multidrug efflux transporter AcrB transmembrane domain
+90112	sf	f.36.1	-	Neurotransmitter-gated ion-channel transmembrane pore
+90123	sf	f.37.1	-	ABC transporter transmembrane region
+103473	sf	f.38.1	-	MFS general substrate transporter
+103486	sf	f.40.1	-	V-type ATP synthase subunit C
+103491	sf	f.41.1	-	Preprotein translocase SecY subunit
+103506	sf	f.42.1	-	Mitochondrial carrier
+103511	sf	f.43.1	-	Chlorophyll a-b binding protein
+111352	sf	f.44.1	-	Ammonium transporter
+111357	sf	f.45.1	-	Mitochondrial ATP synthase coupling factor 6
+111369	sf	f.46.1	-	HlyD-like secretion proteins
+111379	sf	f.47.1	-	VP4 membrane interaction domain
+111384	sf	f.48.1	-	OmpH-like
+118215	sf	f.49.1	-	Proton glutamate symport protein
+118220	sf	f.50.1	-	Connexin43
+144091	sf	f.51.1	-	Rhomboid-like
+161060	sf	f.52.1	-	ATP synthase B chain-like
+161065	sf	f.53.1	-	ATP synthase D chain-like
+161070	sf	f.54.1	-	SNF-like
+161077	sf	f.55.1	-	Photosystem II antenna protein-like
+161084	sf	f.56.1	-	MAPEG domain-like
+161093	sf	f.57.1	-	MgtE membrane domain-like
+161098	sf	f.58.1	-	MetI-like
+161111	sf	f.59.1	-	Cation efflux protein transmembrane domain-like
+254122	sf	f.60.1	-	Anthrax protective antigen C-terminal-like
+310586	sf	f.61.1	-	Multidrug and toxic compound extrusion (MATE) transporters
+310600	sf	f.62.1	-	Diacylglycerol kinase (DgkA)-like
+345928	sf	f.63.1	-	Claudin-like
+418747	sf	f.64.1	-	Filovirus surface glycoprotein-like
+418748	sf	f.65.1	-	Vacuolar ATP synthase subunit a (also called I subunit) C-terminal domain
+418749	sf	f.66.1	-	Helical insert domain of RAG1
+418750	sf	f.67.1	-	Bestropin channel-like
+418751	sf	f.68.1	-	Anoctamin (TMEM16)-like
+418756	sf	f.68.2	-	DUF3412 domain
+418735	sf	f.69.1	-	Perfringolysin N-terminal-like
+418773	sf	f.70.1	-	Extracellular adhesion domain of SabA-like
+418775	sf	f.71.1	-	LYR protein-like
+418776	sf	f.72.1	-	Antiporter-like subunits from respiratory complex I
+418777	sf	f.73.1	-	Respiratory complex I subunit NuoK-like
+418778	sf	f.73.2	-	Respiratory complex I subunit NuoJ-like
+418779	sf	f.73.3	-	Respiratory complex I subunit NuoA-like
+56994	sf	g.1.1	-	Insulin-like
+57007	sf	g.2.1	-	Heat-stable enterotoxin B
+57011	sf	g.2.2	-	Neurotoxin B-IV
+111388	sf	g.2.3	-	Pollen allergen ole e 6
+161148	sf	g.2.4	-	VhTI-like
+57016	sf	g.3.1	-	Plant lectins/antimicrobial peptides
+57027	sf	g.3.2	-	Plant inhibitors of proteinases and amylases
+57038	sf	g.3.3	-	Cyclotides
+57048	sf	g.3.4	-	Gurmarin-like
+57055	sf	g.3.5	-	Agouti-related protein
+57059	sf	g.3.6	-	omega toxin-like
+57095	sf	g.3.7	-	Scorpion toxin-like
+57180	sf	g.3.8	-	Cellulose-binding domain
+57184	sf	g.3.9	-	Growth factor receptor domain
+57190	sf	g.3.10	-	Colipase-like
+57196	sf	g.3.11	-	EGF/Laminin
+57243	sf	g.3.12	-	Bromelain inhibitor VI (cysteine protease inhibitor)
+57247	sf	g.3.13	-	Bowman-Birk inhibitor, BBI
+57256	sf	g.3.14	-	Elafin-like
+57262	sf	g.3.15	-	Leech antihemostatic proteins
+57277	sf	g.3.16	-	Granulin repeat
+64546	sf	g.3.17	-	Satiety factor CART (cocaine and amphetamine regulated transcript)
+90148	sf	g.3.18	-	DPY module
+103565	sf	g.3.19	-	Bubble protein
+57283	sf	g.4.1	-	PMP inhibitors
+57288	sf	g.5.1	-	Midkine
+57296	sf	g.6.1	-	Amb V allergen
+57302	sf	g.7.1	-	Snake toxin-like
+57362	sf	g.8.1	-	BPTI-like
+57392	sf	g.9.1	-	Defensin-like
+57414	sf	g.10.1	-	Hairpin loop containing domain-like
+57419	sf	g.11.1	-	Neurotoxin III (ATX III)
+57424	sf	g.12.1	-	LDL receptor-like module
+57429	sf	g.13.1	-	Crambin-like
+57440	sf	g.14.1	-	Kringle-like
+57492	sf	g.16.1	-	Trefoil
+103575	sf	g.16.2	-	Plexin repeat
+118251	sf	g.16.3	-	Variant surface glycoprotein MITAT 1.2, VSG 221, C-terminal domain
+57501	sf	g.17.1	-	Cystine-knot cytokines
+57535	sf	g.18.1	-	Complement control module/SCR domain
+57546	sf	g.19.1	-	Crisp domain-like
+57552	sf	g.20.1	-	Blood coagulation inhibitor (disintegrin)
+57561	sf	g.21.1	-	Methylamine dehydrogenase, L chain
+57567	sf	g.22.1	-	Serine protease inhibitors
+57581	sf	g.23.1	-	TB module/8-cys domain
+57586	sf	g.24.1	-	TNF receptor-like
+57593	sf	g.25.1	-	Heparin-binding domain from vascular endothelial growth factor
+57598	sf	g.26.1	-	Antifungal protein (AGAFP)
+57603	sf	g.27.1	-	FnI-like domain
+57610	sf	g.28.1	-	Thyroglobulin type-1 domain
+57615	sf	g.29.1	-	Type X cellulose binding domain, CBDX
+57620	sf	g.30.1	-	Carboxypeptidase inhibitor
+57625	sf	g.31.1	-	Invertebrate chitin-binding proteins
+57630	sf	g.32.1	-	GLA-domain
+57642	sf	g.33.1	-	Cholecystokinin A receptor, N-domain
+57647	sf	g.34.1	-	HIV-1 VPU cytoplasmic domain
+57652	sf	g.35.1	-	HIPIP (high potential iron protein)
+57662	sf	g.36.1	-	Ferredoxin thioredoxin reductase (FTR), catalytic beta chain
+57667	sf	g.37.1	-	beta-beta-alpha zinc fingers
+57701	sf	g.38.1	-	Zn2/Cys6 DNA-binding domain
+57716	sf	g.39.1	-	Glucocorticoid receptor-like (DNA-binding domain)
+57756	sf	g.40.1	-	Retrovirus zinc finger-like domains
+57770	sf	g.41.1	-	Methionyl-tRNA synthetase (MetRS), Zn-domain
+57774	sf	g.41.2	-	Microbial and mitochondrial ADK, insert 'zinc finger' domain
+57783	sf	g.41.3	-	Zinc beta-ribbon
+57798	sf	g.41.4	-	Casein kinase II beta subunit
+57802	sf	g.41.5	-	Rubredoxin-like
+57821	sf	g.41.6	-	Hypothetical protein MTH1184
+57825	sf	g.41.7	-	Aspartate carbamoyltransferase, Regulatory-chain, C-terminal domain
+57829	sf	g.41.8	-	Zn-binding ribosomal proteins
+63393	sf	g.41.9	-	RNA polymerase subunits
+82919	sf	g.41.10	-	Zn-finger domain of Sec23/24
+90209	sf	g.41.11	-	Ran binding protein zinc finger-like
+103623	sf	g.41.13	-	Hypothetical protein Ta0289 C-terminal domain
+116738	sf	g.41.14	-	NADH pyrophosphatase intervening domain
+144206	sf	g.41.15	-	NOB1 zinc finger-like
+144210	sf	g.41.16	-	Nop10-like SnoRNP
+144217	sf	g.41.17	-	CSL zinc finger
+161187	sf	g.41.18	-	YfgJ-like
+57840	sf	g.42.1	-	Ribosomal protein L36
+57845	sf	g.43.1	-	B-box zinc-binding domain
+57850	sf	g.44.1	-	RING/U-box
+57863	sf	g.45.1	-	ArfGap/RecO-like zinc finger
+57868	sf	g.46.1	-	Metallothionein
+57879	sf	g.47.1	-	Zinc domain conserved in yeast copper-regulated transcription factors
+57884	sf	g.48.1	-	Ada DNA repair protein, N-terminal domain (N-Ada 10)
+57889	sf	g.49.1	-	Cysteine-rich domain
+57903	sf	g.50.1	-	FYVE/PHD zinc finger
+310596	sf	g.50.2	-	CW-type zinc finger
+57917	sf	g.51.1	-	Zn-binding domains of ADDBP
+57924	sf	g.52.1	-	Inhibitor of apoptosis (IAP) repeat
+57933	sf	g.53.1	-	TAZ domain
+57938	sf	g.54.1	-	DnaJ/Hsp40 cysteine-rich domain
+64571	sf	g.55.1	-	Cellulose docking domain, dockering
+69964	sf	g.58.1	-	Pheromone ER-23
+75689	sf	g.59.1	-	Zinc-binding domain of translation initiation factor 2 beta
+82895	sf	g.60.1	-	TSP-1 type 1 repeat
+82910	sf	g.61.1	-	Apical membrane antigen 1
+82927	sf	g.62.1	-	Cysteine-rich DNA binding domain, (DM domain)
+90183	sf	g.63.1	-	Mollusk pheromone
+90188	sf	g.64.1	-	Somatomedin B domain
+90193	sf	g.65.1	-	Notch domain
+90229	sf	g.66.1	-	CCCH zinc finger
+90234	sf	g.67.1	-	Zinc finger domain of DNA polymerase-alpha
+100895	sf	g.68.1	-	Kazal-type serine protease inhibitors
+100897	sf	g.69.1	-	Plant proteinase inhibitors
+103580	sf	g.70.1	-	Necrosis inducing protein 1, NIP1
+103589	sf	g.71.1	-	Mini-collagen I, C-terminal domain
+103612	sf	g.72.1	-	SBT domain
+103637	sf	g.73.1	-	CCHHC domain
+103642	sf	g.74.1	-	Sec-C motif
+103647	sf	g.75.1	-	TSP type-3 repeat
+111418	sf	g.76.1	-	Hormone receptor domain
+111423	sf	g.77.1	-	Resistin
+111430	sf	g.78.1	-	YAP1 redox domain
+118290	sf	g.79.1	-	WRKY DNA-binding domain
+118310	sf	g.80.1	-	AN1-like Zinc finger
+118352	sf	g.81.1	-	HSP33 redox switch-like
+118359	sf	g.82.1	-	Expressed protein At2g23090/F21P24.15
+144122	sf	g.83.1	-	Tim10-like
+144129	sf	g.84.1	-	Vanabin-like
+144232	sf	g.85.1	-	HIT/MYND zinc finger-like
+144246	sf	g.86.1	-	Coronavirus NSP10-like
+144251	sf	g.87.1	-	Viral leader polypeptide zinc finger
+144256	sf	g.88.1	-	TSP9-like
+254134	sf	g.88.2	-	importin-beta binding (IBB) domain of snurportin-1
+161219	sf	g.89.1	-	CHY zinc finger-like
+161229	sf	g.90.1	-	E6 C-terminal domain-like
+161234	sf	g.91.1	-	E7 C-terminal domain-like
+161240	sf	g.92.1	-	T-antigen specific domain-like
+161245	sf	g.93.1	-	Zinc hairpin stack
+254128	sf	g.94.1	-	Complement C3 linker domain-like
+267601	sf	g.95.1	-	bi-CXXC zinc finger-like
+310588	sf	g.96.1	-	Flavivirus non-structural protein NS2B-like
+310593	sf	g.97.1	-	Iron-sulfur cluster-binding zinc finger CDGSH type
+345929	sf	g.98.1	-	RNA polymerase I subunit A14-like
+345930	sf	g.99.1	-	Pre-mRNA splicing factor Cwf14-like
+345931	sf	g.100.1	-	Pre-mRNA splicing factor Cwf5-like
+345932	sf	g.101.1	-	Pre-mRNA splicing factor Phf5-like
+418737	sf	g.102.1	-	Jumonji C-terminal domain-like
+418780	sf	g.103.1	-	Protein-only RNAse P central domain-like
+57944	sf	h.1.1	-	Triple coiled coil domain of C-type lectins
+57953	sf	h.1.2	-	Trimerization domain of TRAF
+57959	sf	h.1.3	-	Leucine zipper domain
+57987	sf	h.1.4	-	Inovirus (filamentous phage) major coat protein
+57997	sf	h.1.5	-	Tropomyosin
+58002	sf	h.1.6	-	Chicken cartilage matrix protein
+58006	sf	h.1.7	-	Assembly domain of cartilage oligomeric matrix protein
+58010	sf	h.1.8	-	Fibrinogen coiled-coil and central regions
+58014	sf	h.1.9	-	Coiled-coil domain of nucleotide exchange factor GrpE
+58018	sf	h.1.10	-	Coiled-coil dimerization domain from cortexillin I
+58022	sf	h.1.11	-	XRCC4, C-terminal oligomerization domain
+58026	sf	h.1.12	-	Delta-sleep-inducing peptide immunoreactive peptide
+58030	sf	h.1.13	-	Rotavirus nonstructural proteins
+58034	sf	h.1.14	-	Multimerization domain of the phosphoprotein from sendai virus
+58038	sf	h.1.15	-	SNARE fusion complex
+58042	sf	h.1.16	-	Outer membrane lipoprotein
+58046	sf	h.1.17	-	Fibritin
+58050	sf	h.1.18	-	N-terminal coiled coil domain from apc
+58054	sf	h.1.19	-	Tetrabrachion
+64593	sf	h.1.20	-	Intermediate filament protein, coiled coil region
+69979	sf	h.1.21	-	Eea1 homodimerisation domain
+75704	sf	h.1.22	-	Mitotic arrest deficient-like 1, Mad1
+90242	sf	h.1.23	-	Dimerization motif of sir4
+90246	sf	h.1.24	-	Head morphogenesis protein gp7
+90250	sf	h.1.25	-	Troponin coil-coiled subunits
+90257	sf	h.1.26	-	Myosin rod fragments
+103652	sf	h.1.27	-	G protein-binding domain
+111469	sf	h.1.28	-	Geminin coiled-coil domain
+118370	sf	h.1.29	-	Vasodilator-stimulated phosphoprotein, VASP, tetramerisation domain
+144266	sf	h.1.30	-	MPN010-like
+144270	sf	h.1.31	-	Eferin C-derminal domain-like
+144276	sf	h.1.32	-	Heterotrimerisation domain of extracellular hemoglobin linker subunits
+144284	sf	h.1.33	-	Sec2 N-terminal region
+161256	sf	h.1.34	-	RILP dimerisation region
+267603	sf	h.1.35	-	Demethylase interaction domain of CoREST
+310578	sf	h.1.36	-	V-type ATPase peripheral stalk subunit E coiled coil
+310579	sf	h.1.37	-	V-type ATPase peripheral stalk subunit G coiled coil
+310589	sf	h.1.38	-	N-terminal linker of 6-deoxyerythronolide B synthase (DEBS)
+345933	sf	h.1.39	-	Proteasome regulatory subunits coiled coil regions
+345934	sf	h.1.40	-	Pre-mRNA splicing factor Prp19 coiled coil domain
+345935	sf	h.1.41	-	Pre-mRNA splicing factor Cwf7-like
+58059	sf	h.2.1	-	Tetramerization domain of the Mnt repressor
+58064	sf	h.3.1	-	Influenza hemagglutinin (stalk)
+58069	sf	h.3.2	-	Virus ectodomain
+111474	sf	h.3.3	-	Coronavirus S2 glycoprotein
+58087	sf	h.4.1	-	Variant surface glycoprotein (N-terminal domain)
+58091	sf	h.4.2	-	Clostridium neurotoxins, 'coiled-coil' domain
+58096	sf	h.4.3	-	Colicin Ia, N-terminal domain
+58100	sf	h.4.4	-	Bacterial hemolysins
+58104	sf	h.4.5	-	Methyl-accepting chemotaxis protein (MCP) signaling domain
+58108	sf	h.4.6	-	Oligomerization domain of hepatitis delta antigen
+64602	sf	h.4.8	-	F1 ATPase inhibitor, IF1, C-terminal domain
+69985	sf	h.4.9	-	Colicin E3 receptor domain
+69989	sf	h.4.10	-	C-terminal domain of PLC-beta
+75708	sf	h.4.11	-	Chemotaxis phosphatase CheZ
+75712	sf	h.4.12	-	Rad50 coiled-coil Zn hook
+82931	sf	h.4.13	-	Tumor suppressor gene product Apc
+103661	sf	h.4.15	-	Proline/betaine transporter ProP, C-terminal cytoplasmic domain
+111479	sf	h.4.16	-	Fzo-like conserved region
+144292	sf	h.4.17	-	occludin/ELL-like
+161266	sf	h.4.18	-	Gam-like
+161270	sf	h.4.19	-	PspA lactotransferrin-binding region
+310580	sf	h.4.20	-	V-type ATPase central rotor subunit D
+310606	sf	h.4.21	-	Phosphatidylinositol 3-kinase regulatory subunit P85 inter-SH2 (iSH2) domain-like
+58113	sf	h.5.1	-	Apolipoprotein A-I
+82936	sf	h.6.1	-	Apolipoprotein A-II
+118375	sf	h.7.1	-	Synuclein
+58119	sf	i.1.1	-	Ribosome and ribosomal fragments
+58136	sf	i.2.1	-	Helicase
+58141	sf	i.3.1	-	ATP synthase
+58147	sf	i.4.1	-	Electron transport chains
+58156	sf	i.5.1	-	Photosystems
+58163	sf	i.6.1	-	Viruses and virus-receptor complexes
+58176	sf	i.7.1	-	Reovirus components
+58181	sf	i.8.1	-	RNA polymerase
+58188	sf	i.9.1	-	Blood clotting
+58194	sf	i.10.1	-	Microtubule complexes
+58199	sf	i.11.1	-	Computational models partly based on experimental data
+58208	sf	i.12.1	-	Proteins of incorrect, partial and unknown sequence
+64612	sf	i.14.1	-	Bacteriophage HK97 procapsid (prohead II)
+64617	sf	i.15.1	-	Muscle protein complexes
+69999	sf	i.16.1	-	GroE chaperon
+75719	sf	i.17.1	-	Virus envelope proteins
+82941	sf	i.18.1	-	Membrane ion ATPase
+103675	sf	i.19.1	-	Bacteriophage T4 3D cryo-EM reconstruction
+103682	sf	i.20.1	-	Ep-cadherin
+103687	sf	i.21.1	-	Transferrin receptor-transferrin complex
+103692	sf	i.22.1	-	Signal recognition particle (SRP) complex
+111485	sf	i.23.1	-	clathrin assemblies
+111490	sf	i.24.1	-	anthrax toxin protective antigen-receptor complex
+144297	sf	i.25.1	-	Collagen fibre
+144302	sf	i.26.1	-	Fatty acid synthase
+58233	sf	j.1.1	-	Membrane ion channel-forming peptide antibiotics containing D-aminoacids
+58244	sf	j.2.1	-	Lantibiotic peptides
+58252	sf	j.3.1	-	Antimicrobial beta-hairpin
+58269	sf	j.4.1	-	Antimicrobial helix
+58279	sf	j.5.1	-	Macrocyclic bacteriocins
+58284	sf	j.6.1	-	Peptide hormones
+58308	sf	j.7.1	-	delta-Toxin
+90276	sf	j.7.2	-	Antimicrobial peptide HP(2-20)
+118391	sf	j.7.3	-	Anticancer peptides
+58313	sf	j.8.1	-	PSP1-like
+58322	sf	j.9.1	-	30S ribosomal protein THX
+58326	sf	j.9.2	-	HIV-1 REV fragments
+58330	sf	j.9.3	-	RSG-1.2 peptide
+58334	sf	j.9.4	-	TAT peptides
+58339	sf	j.9.5	-	Box B RNA-binding N peptide
+58344	sf	j.9.6	-	HTLV-1 peptide
+118396	sf	j.9.7	-	Ilarvirus coat protein N-terminal fragment
+58349	sf	j.10.1	-	DNA-binding domains of HMG-I(Y)
+58354	sf	j.11.1	-	VPR protein fragments
+58359	sf	j.12.1	-	Inactivation gate of potassium and sodium channels
+58369	sf	j.13.1	-	Coagulation factor VIII, membrane-binding peptide
+58374	sf	j.14.1	-	Phosphocholine cytidylyltransferase membrane-binding peptides
+58379	sf	j.15.1	-	Parathyroid hormone fragments (residues between 1 and 39)
+58385	sf	j.16.1	-	Corticotropin releasing hormone
+58390	sf	j.17.1	-	Liposaccharide-binding protein CAP18 (residues 106-137)
+58395	sf	j.18.1	-	Polymorphic antigen SPAM-H1 (residues 90-127)
+58400	sf	j.19.1	-	Insect toxins
+58405	sf	j.20.1	-	Tertiapin
+58410	sf	j.21.1	-	Antifreeze polypeptide HPLC-6
+58415	sf	j.22.1	-	Troponin I fragments
+58421	sf	j.23.1	-	Pilin fragments
+58428	sf	j.24.1	-	RP71935
+58433	sf	j.25.1	-	Atrial natriuretic peptide
+58438	sf	j.26.1	-	Compstatin
+58443	sf	j.27.1	-	Membrane-bound antimicrobial peptides
+58450	sf	j.28.1	-	Endothelin-like
+58458	sf	j.29.1	-	Heat-stable enterotoxin (HSE)
+58465	sf	j.30.1	-	Conotoxins
+58495	sf	j.31.1	-	Conantokin
+58503	sf	j.32.1	-	Contryphan-R
+58508	sf	j.33.1	-	Immunodominant region of protein G of BRSV
+75739	sf	j.33.2	-	Potassium channel toxins
+58513	sf	j.34.1	-	Bradykinin
+58518	sf	j.35.1	-	Transmembrane helical fragments
+58556	sf	j.36.1	-	Ferredoxin chloroplastic transit peptide
+58560	sf	j.36.2	-	Vacuolar targeting peptide from NA-PROPI (residues 29-54)
+58564	sf	j.36.3	-	Microcin leader peptide
+103737	sf	j.36.4	-	ATP synthase beta chain, mitochondrial prepeptide
+58569	sf	j.37.1	-	Phospholamban fragments
+58575	sf	j.38.1	-	Fragments of bowman-birk inhibitor
+58580	sf	j.39.1	-	Fragments of apolipoproteins
+58594	sf	j.40.1	-	Transactivation protein TAT
+58600	sf	j.41.1	-	Proline pipe
+58605	sf	j.42.1	-	Amyloid peptides
+58610	sf	j.43.1	-	Gelsolin fragment (residues 150-169)
+58615	sf	j.44.1	-	Acetylcholine receptor fragment (residues alpha 67-76)
+58620	sf	j.45.1	-	Thrombomodulin EGF domain fragment (residues 409-426)
+58630	sf	j.47.1	-	Capsid protein major homology region peptide analog
+58636	sf	j.48.1	-	CD4 and CD8 receptor regions
+58641	sf	j.49.1	-	Heparin binding site of non collagenous domain I (nc1) of collagen facit xiv
+58646	sf	j.50.1	-	GroES fragments
+58651	sf	j.51.1	-	cAMP and cGMP phosphodiesterase (PDE) fragments
+58658	sf	j.52.1	-	HIV-1 Nef protein fragments
+58663	sf	j.53.1	-	HIV-1 envelope gp120 protein fragments
+58668	sf	j.54.1	-	Hepatitis C virus N-terminal capsid protein fragment 2-45
+58673	sf	j.55.1	-	P27(KIP1) fragment 22-106
+58678	sf	j.56.1	-	Transducin alpha-1 subunit rhodopsin binding domain (res. 340-350)
+58683	sf	j.57.1	-	alpha-lactalbumin peptide model
+58688	sf	j.58.1	-	Coat protein-binding domain of bacteriophage P22 scaffolding protein
+58693	sf	j.59.1	-	Immunoreceptor tyrosine kinase activation motif, ITAM
+58698	sf	j.60.1	-	Integrin fragments
+58703	sf	j.61.1	-	Human glutathione reductase (HGR) inhibitor
+58708	sf	j.62.1	-	Small subunit C-terminal inhibitory peptide of ribonucleotide reductase
+58713	sf	j.63.1	-	Histone H3 C-terminal fragment 130-135
+58718	sf	j.64.1	-	Smad-binding domain of Sara
+58723	sf	j.65.1	-	Peptide derived from p-21 activated kinase
+58729	sf	j.66.1	-	pak1 autoregulatory domain
+58734	sf	j.67.1	-	Translocated intimin receptor (tir) intimin-binding domain
+58739	sf	j.68.1	-	Fragments of the L-type calcium channel alpha subunit Cav.1 (dihydropyridine receptor)
+58744	sf	j.69.1	-	Tumor suppressor p53 fragments
+58749	sf	j.70.1	-	FxFG nucleoporin repeats
+58754	sf	j.71.1	-	beta-Catenine bound non-globular protein regions
+58764	sf	j.73.1	-	VMIP-II fragment
+58769	sf	j.74.1	-	Papillomavirus e6-interacting peptide of e6ap
+58774	sf	j.75.1	-	Isolated insulin B-chain
+58779	sf	j.76.1	-	Ubiquitin fragments
+58784	sf	j.77.1	-	alpha-helical hairpin of p8mtcp1
+63388	sf	j.78.1	-	C-terminal fragment of thermolysin
+64632	sf	j.79.1	-	Influenza hemagglutinin fragments
+64639	sf	j.80.1	-	Syndecan-4 cytoplasmic domain
+64644	sf	j.81.1	-	Pituitary adenylate cyclase activating polypeptide, pacap21
+64649	sf	j.82.1	-	Cholecystokinin receptor fragments
+64654	sf	j.83.1	-	Trypsin inhibitor SFTIf-1
+64659	sf	j.84.1	-	Ribosomal protein L10
+70011	sf	j.85.1	-	HIV-1 gp41 fragments
+70018	sf	j.86.1	-	Actin-binding peptides
+70023	sf	j.87.1	-	Rack1 interaction site of the CAMP-specific phosphodiesterase pde4d5.
+70028	sf	j.88.1	-	Prepeptide of 5-ALAS
+70033	sf	j.89.1	-	the cytoplasmic N-terminus of the bk beta-subunit kcnmb2
+70038	sf	j.90.1	-	Prion protein fragments
+70043	sf	j.91.1	-	Tumor suppressor protein p19-ARF fragment
+70048	sf	j.92.1	-	Antennapedia homeodomain fragments
+75752	sf	j.93.1	-	Sheep myeloid antimicrobial peptide SMAP29 based peptides
+75757	sf	j.94.1	-	alpha-2a adrenergic receptor pepride t3-i2
+75762	sf	j.95.1	-	Catestatin fragment from chromogranin A
+74800	sf	j.96.1	-	Transactivation domain
+82986	sf	j.97.1	-	BRCA2 BRC4 repeat
+82993	sf	j.98.1	-	Bhpbr3, the Baff-binding loop of br3 embedded in a beta-hairpin peptide
+82998	sf	j.99.1	-	N-terminal fragment of gastric H/K-ATPase
+83003	sf	j.100.1	-	Barstar fragment
+83008	sf	j.101.1	-	Cannabinoid receptor 1 (CB1) fragment
+90270	sf	j.102.1	-	Angiotensin
+90291	sf	j.103.1	-	Transducin gamma-t1 subunit rhodopsin bound fragment (res. 60-71)
+90298	sf	j.104.1	-	TBP-binding domain of the transcription factor IIIb Brf1 subunit
+90303	sf	j.105.1	-	Ubiquitin interacting motif (UIM)
+100899	sf	j.106.1	-	Leucocin-like bacteriocin
+103727	sf	j.107.1	-	Penaeidin-3a
+103749	sf	j.108.1	-	Proto-oncogene tyrosine-protein kinase lck CD4/CD8 interacting region
+103759	sf	j.109.1	-	Metal-binding peptide from MerP
+103764	sf	j.110.1	-	Marinostatin, MstI
+103769	sf	j.111.1	-	Cross-reactive peptides from 60S acidic ribosomal protein p2
+48682	sf	j.112.1	-	Nuclear receptor coactivator Src-1
+111517	sf	j.113.1	-	NTR, cyclotide processing element
+111524	sf	j.114.1	-	HMG-box transcription factor 1 fragments
+111529	sf	j.115.1	-	MAD protein fragments
+111534	sf	j.116.1	-	Fragments of TNF receptors
+111539	sf	j.117.1	-	Ezrin-radixin-moesin binding phosphoprotein 50 (ebp50) fragments
+144321	sf	j.118.1	-	Ribosomal protein L34p
+144326	sf	j.119.1	-	Retinoblastoma-associated protein RB1 fragments
+144331	sf	j.120.1	-	Genome linked protein vpg
+144336	sf	j.121.1	-	Programmed cell death protein 5 fragments
+161308	sf	j.122.1	-	Ribosomal protein S21p
+254124	sf	j.123.1	-	Transforming growth factor alpha fragments
+254125	sf	j.124.1	-	YefM fragments
+254126	sf	j.125.1	-	IAP fragments
+254127	sf	j.126.1	-	cAMP-dependent protein kinase inhibitor
+254129	sf	j.127.1	-	Complement system alpha-prime linker
+254130	sf	j.128.1	-	Complement system anchor region
+267602	sf	j.129.1	-	DNMT1 CXXC-BAH1 linker domain-like
+267605	sf	j.130.1	-	STM1 N-terminal region
+267606	sf	j.131.1	-	Filamin fragments
+310583	sf	j.132.1	-	Mixed lineage leukaemia protein (MLL) fragments
+310585	sf	j.133.1	-	RNA polymerase II fragments
+310591	sf	j.134.1	-	C-terminal linker of 6-deoxyerythronolide B synthase (DEBS)-like
+310604	sf	j.135.1	-	Sac3 CID region-like
+345936	sf	j.136.1	-	SEM1 fragments
+345937	sf	j.137.1	-	Pre-mRNA splicing factor Prp45-like
+345938	sf	j.138.1	-	Pre-mRNA splicing factor Cdc5-like
+345939	sf	j.139.1	-	Pre-mRNA splicing factor Prp17-like
+345940	sf	j.140.1	-	Pre-mRNA splicing factor Cwf15-like
+345941	sf	j.141.1	-	Pre-mRNA splicing factor Syf2-like
+345942	sf	j.142.1	-	Pre-mRNA splicing factor Cwc25-like
+345943	sf	j.143.1	-	Pre-mRNA splicing factor Snu66-like
+345944	sf	j.144.1	-	Spliceosomal U4/U6 small nuclear ribonucleoprotein Prp3 N-terminal domain-like
+345945	sf	j.145.1	-	Microfibrillar-associated protein 1 fragment
+345946	sf	j.146.1	-	Splicing factor 3B subunit 5 fragment
+345947	sf	j.147.1	-	Pre-mRNA splicing factor Cwc21 fragment
+345948	sf	j.148.1	-	Splicing factor 3B subunit 1 fragment
+345949	sf	j.149.1	-	Spliceosomal U4/U6 small nuclear ribonucleoprotein Prp31 C-terminal domain-like
+345950	sf	j.150.1	-	Pre-mRNA splicing factor Slu7 fragments
+418738	sf	j.151.1	-	PB1 fragments
+418739	sf	j.152.1	-	Influenza virus PA/P3 linker region-like
+418742	sf	j.153.1	-	Influenza virus PB2 linker region-like
+418743	sf	j.153.2	-	Influenza virus PB2 mid domain-like
+58790	sf	k.1.1	-	Hybrid and chimeric proteins
+58799	sf	k.2.1	-	Amphiphilic (amphipathic) alpha helix
+58806	sf	k.3.1	-	Collagen-like peptides
+58813	sf	k.4.1	-	Coiled serine
+58823	sf	k.6.1	-	Designed heterodimeric coiled-coil
+58828	sf	k.7.1	-	Thermostable heterotrimeric coiled coil
+58833	sf	k.8.1	-	Designed four-helix bundle protein
+58840	sf	k.9.1	-	Designed single chain three-helix bundle
+58847	sf	k.10.1	-	Peptide f (amphiphilic octadecapeptide)
+58852	sf	k.11.1	-	Retro-GCN4 leucine zipper
+58857	sf	k.12.1	-	Zinc finger design
+58864	sf	k.13.1	-	Protein A Ig(Fc)-binding domain mimics
+58869	sf	k.14.1	-	Zinc finger based beta-beta-alpha motif
+58878	sf	k.15.1	-	helix-turn-helix motif
+58883	sf	k.16.1	-	alpha2d
+58888	sf	k.17.1	-	Right-handed coiled coil
+58893	sf	k.18.1	-	Erythropoietin (EPO) mimetic peptides
+58898	sf	k.19.1	-	IL-1 receptor type 1 antagonist peptide AF10847
+58903	sf	k.20.1	-	Octreotide (Sandostatine), a somatostatine analogue
+58908	sf	k.21.1	-	Calmodulin
+58913	sf	k.22.1	-	WW domain-based designs
+58918	sf	k.23.1	-	Scorpion toxin-based designs
+58926	sf	k.24.1	-	Inhibitor of mammalian ribonucleotide reductase
+64674	sf	k.26.1	-	TH (toxin hand)-motif beta-sheet mini-protein designs
+64683	sf	k.27.1	-	Integrin-binding RGD peptide
+64688	sf	k.28.1	-	Peptide antagonists of IGF-1
+64693	sf	k.29.1	-	beta-hairpin design
+64704	sf	k.30.1	-	Synthetic high affinity IgE receptor antagonists
+70054	sf	k.31.1	-	Glytm1bzip
+75770	sf	k.32.1	-	Trp-cage miniprotein
+75780	sf	k.33.1	-	IFN mimetic syr6
+75785	sf	k.34.1	-	TAZ (CH) Zn-binding domain based design
+75790	sf	k.35.1	-	Beta-sheet designs
+75797	sf	k.36.1	-	PW2, a tryptophan-rich anticocidial peptide
+83018	sf	k.37.1	-	Artificial ankyrin repeat proteins
+90308	sf	k.38.1	-	TPR domain-based design
+90315	sf	k.39.1	-	Metalloporphyrin-binding designed peptides
+100904	sf	k.40.1	-	Designed trimeric coiled-coil
+103775	sf	k.41.1	-	New fold designs
+103780	sf	k.42.1	-	In vitro evolution products
+103790	sf	k.43.1	-	Carboxypeptidase A prodomain-based design
+111555	sf	k.44.1	-	Designed EF-hand type cation-binding loop
+144345	sf	k.45.1	-	Ubiquitin
+144350	sf	k.46.1	-	Cro lambda fold design
+310607	sf	l.1.1	-	Tags

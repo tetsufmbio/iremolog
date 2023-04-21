@@ -10,13 +10,14 @@ args = parser.parse_args()
 config = vars(args)
 
 from joblib import load
-from sklearn.preprocessing import StandardScaler
-from sklearn.svm import SVC
+from sklearn.preprocessing import RobustScaler
+import xgboost as xgb
 from sklearn.pipeline import Pipeline
 import pandas as pd
 import numpy as np
 								 
 clf = load(config["model"])
+query,subject,sf,lovo_finalScore,lovo_coverage,lovo_rmsd,lovo_gaps,lovo_finalScoreNorm,lovo_relCov,lovo_relGaps,tm_AliLen,tm_RMSD,tm_n_ident/n_aln,tm_TM-score (chain 2),tm_d0 (chain 2),tm_cov,fatcat_subject-len,fatcat_Twists,fatcat_ini-len,fatcat_ini-rmsd,fatcat_opt-equ,fatcat_opt-rmsd,fatcat_chain-rmsd,fatcat_Score,fatcat_align-len,fatcat_Gaps,fatcat_rel_score,fatcat_rel_align,cl=46456,cl=48724,cl=51349,cl=53931,cl=56572,cl=56835,cl=56992,label
 
 header = ["query", "subject",
           "lovo_finalScore", "lovo_coverage", "lovo_rmsd", "lovo_gaps", "lovo_relCov", "lovo_relGaps", "lovo_finalScoreNorm",
@@ -28,6 +29,7 @@ data = pd.read_csv(config["input"], sep="\t", header=None)
 data.columns = header
 
 X = data.iloc[:,2:]
+X.drop(X.columns[[1,3,7,13,14,15,17,20,21,22]], axis=1, inplace=True)
 pred = clf.predict(X)
 pred_proba = clf.predict_proba(X)
 data["pred"] = pred
