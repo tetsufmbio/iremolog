@@ -1,4 +1,4 @@
-# Remolog: Detecting remote homolog using structure alignment algorithms and machine learning
+# IRemolog: Detecting remote homolog using structure alignment algorithms and machine learning
 
 In this repository, you will find all resource used to develop Remolog, a model for detecting remote homolog based on structure alignment data.
 
