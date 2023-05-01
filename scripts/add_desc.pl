@@ -72,7 +72,7 @@ while(my $line = <RES>){
 	chomp $line;
 	next if($line =~ /^$/);
 	my @line = split(",", $line);
-	print $line[0]."\t".$line[1]."\t".$cla{$dm{$line[1]}}."\t".$line[34]."\t".$line[35]."\n";
+	print $line[0]."\t".$line[1]."\t".$cla{$dm{$line[1]}}."\t".$line[$#line-1]."\t".$line[$#line]."\n";
 }
 
 close RES;
