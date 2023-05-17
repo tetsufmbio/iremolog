@@ -7,7 +7,7 @@ open(FILE, "< $file") or die;
 
 my $proteinA; my $proteinB;
 
-my ($finalScore, $coverage, $rmsd, $gaps, $finalScoreNorm) = ("") x 5;
+my ($finalScore, $coverage, $rmsd, $gaps, $finalScoreNorm, $rmsd3a, $coverage3a) = ("") x 7;
 my ($lenA, $lenB) = ("") x 2;
 
 while(my $line = <FILE>){
@@ -24,7 +24,6 @@ while(my $line = <FILE>){
 		chomp $line;
 		my @line = split(/[ ]+/, $line);
 		$finalScoreNorm = $line[7];
-		last;
 	} elsif ($line =~ m/^  Protein A:/){
 		chomp $line;
 		my @line = split(/[ ]+/, $line);
@@ -40,6 +39,12 @@ while(my $line = <FILE>){
 		my @line = split(/[ ]+/, $line);
 		$lenA = $line[5];
 		$lenB = $line[7];
+	} elsif ($line =~ m/^  ATOMS CLOSER THAN/){
+		chomp $line;
+		my @line = split(/[ ]+/, $line);
+		$rmsd3a = $line[7];
+		$coverage3a = $line[9];
+		last;
 	}
 }
 
@@ -50,4 +55,7 @@ my $relCov;
 $relCov = sprintf("%.4f", $coverage/$lenB) if ($lenB > 0);
 my $relGaps;
 $relGaps = sprintf("%.4f", $gaps/$coverage) if ($coverage > 0);
-print $proteinA."\t".$proteinB."\t".$finalScore."\t".$coverage."\t".$rmsd."\t".$gaps."\t".$relCov."\t".$relGaps."\t".$finalScoreNorm."\n";
+my $relCov3a = sprintf("%.4f", $coverage3a/$lenB) if ($lenB > 0);
+my $relCovDiff = sprintf("%.4f", ($coverage - $coverage3a)/$lenB) if ($lenB > 0);
+
+print $proteinA."\t".$proteinB."\t".$finalScore."\t".$coverage."\t".$rmsd."\t".$gaps."\t".$relCov."\t".$relGaps."\t".$coverage3a."\t".$relCov3a."\t".$rmsd3a."\t".$relCovDiff."\t".$finalScoreNorm."\n";

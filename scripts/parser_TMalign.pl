@@ -11,7 +11,7 @@ my $proteinA;
 my $proteinB;
 #$proteinB =~ s/\.ent//;
 #my ($finalScore, $coverage, $rmsd, $gaps, $finalScoreNorm) = ("") x 5;
-my @features = ("") x 5;
+my @features = (0) x 6;
 # Aligned length
 # RMSD
 # n_identical/n_aligned
@@ -48,6 +48,9 @@ while(my $line = <FILE>){
 	}
 }
 
+if ($features[5] == 0){
+	exit;
+}
 $features[5] = sprintf("%.4f",$features[0]/$features[5]);
 print $proteinA."\t".$proteinB."\t".join("\t", @features)."\n";
 #print $proteinA."\t".$proteinB."\t".$finalScore."\t".$coverage."\t".$rmsd."\t".$gaps."\t".$finalScoreNorm."\n";

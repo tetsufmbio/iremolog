@@ -21,15 +21,15 @@ from joblib import dump, load
 
 data = pd.read_csv(config["input"])
 X = data.iloc[:,3:-1]
-X.drop(X.columns[[1,3,7,13,14,15,17,20,21,22]], axis=1, inplace=True)
-X = X.filter(regex="tm_|lovo_|cl=")
+X.drop(X.columns[[1,3,6,11,17,18,19,21,24,25,26,29,30]], axis=1, inplace=True)
+#X = X.filter(regex="tm_|lovo_|cl=")
 y = data.iloc[:,-1]
 pipe = Pipeline([('scaler', RobustScaler()), ('clf', xgb.XGBClassifier(
-        colsample_bylevel=0.6, 
-        colsample_bytree=0.8, 
-        learning_rate=0.01, 
-        max_depth=6,
-        n_estimators=1000,
+        colsample_bylevel=0.4, 
+        colsample_bytree=0.7, 
+        learning_rate=0.1, 
+        max_depth=15,
+        n_estimators=500,
         subsample=0.5,
     ))])
 pipe.fit(X, y)
