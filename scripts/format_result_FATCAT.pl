@@ -28,7 +28,7 @@ while(my $line = <FILE>){
 	chomp $line;
 	next if ($line =~ /^$/);
 	my @line = split(/[ ]+/, $line);
-        $line[1] =~ s/\.ent\.pdb$//;
+        $line[1] =~ s/.pdb$//;
         #$line[0] =~ s/\.ent\.pdb$//;
 
 	#my @line = split("	", $line);

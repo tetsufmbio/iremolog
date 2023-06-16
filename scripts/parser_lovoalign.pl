@@ -33,7 +33,7 @@ while(my $line = <FILE>){
 		chomp $line;
 		my @line = split(/[ ]+/, $line);
 		$proteinB = $line[3];
-		$proteinB =~ s/\.ent\.pdb$//;
+		$proteinB =~ s/\.pdb$//;
 	} elsif ($line =~ m/^  Number of atoms:/){
 		chomp $line;
 		my @line = split(/[ ]+/, $line);
